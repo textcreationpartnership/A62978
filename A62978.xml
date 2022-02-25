@@ -1,0 +1,911 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mixt marriages vindicated: or A discourse of mixt marriages by way of dialogue between A. and B. Who are of the same profession in matters of religion: but of different apprehensions in the point of marriage. First, shewing, that for persons to be joyned together in marriage, who differ about institutions in matters of religion, is contrary to no law; and therefore lawful. Secondly, that in case such marriages were the breach of a law, yet there is no rule left for the church to excommunicate persons for so marrying. By Stephen Tory.</title>
+            <author>Tory, Stephen.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62978</idno>
+            <idno type="STC">Wing T1943A</idno>
+            <idno type="STC">ESTC R34668</idno>
+            <idno type="EEBO-CITATION">99834100</idno>
+            <idno type="PROQUEST">99834100</idno>
+            <idno type="VID">38585</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38585)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2157:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mixt marriages vindicated: or A discourse of mixt marriages by way of dialogue between A. and B. Who are of the same profession in matters of religion: but of different apprehensions in the point of marriage. First, shewing, that for persons to be joyned together in marriage, who differ about institutions in matters of religion, is contrary to no law; and therefore lawful. Secondly, that in case such marriages were the breach of a law, yet there is no rule left for the church to excommunicate persons for so marrying. By Stephen Tory.</title>
+                  <author>Tory, Stephen.</author>
+               </titleStmt>
+               <extent>[8], 1, [55] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Francis Smith at the Elephant and Castle in Cornhil near the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38585:1" rendition="simple:additions"/>
+            <p>
+               <hi>Mixt Marriages</hi> Vindicated: OR A DISCOURSE OF Mixt Marriages By way of DIALOGUE <hi>Between</hi> A. and B. Who are of the ſame Profeſſion in mat<g ref="char:EOLhyphen"/>ters of <hi>Religion:</hi> But of different Apprehenſions in the Point of <hi>Marriage.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Shewing, That for perſons to be Joyned together in <hi>Marriage,</hi> who differ about <hi>Inſtitutions</hi> in matters of <hi>Religion,</hi> is contrary to no <hi>Law;</hi> and therefore <hi>Lawful.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> That in caſe ſuch <hi>Marriages</hi> were the breach of a <hi>Law,</hi> yet there is no <hi>Rule</hi> left for the <hi>Church</hi> to <hi>Excommuni<g ref="char:EOLhyphen"/>cate</hi> Perſons for ſo Marrying.</p>
+            <p>By <hi>STEPHEN TORY.</hi>
+            </p>
+            <p>
+               <q>Marriage is honourable in all,
+<bibl>
+                     <hi>Heb.</hi> 13.4.</bibl>
+               </q>
+               <q>Add not thou to his word,
+<bibl>
+                     <hi>Prov.</hi> 30.6.</bibl>
+               </q>
+               <q>Why tempt ye God, to put a yoke upon the Necks of the Diſciples, which neither our Fathers nor we were able to bear?
+<bibl>
+                     <hi>Acts</hi> 15.10.</bibl> 
+               </q>
+               <q>Be ye therefore merciful, as your heavenly Father alſo is merciful,
+<bibl>
+                     <hi>Luke</hi> 6.36.</bibl>
+               </q>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Smith</hi> at th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Elephant</hi> and <hi>Caſtle</hi> in <hi>Cornhil</hi> near the <hi>Royal Exchang<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1680</hi>
+            </p>
+            <pb facs="tcp:38585:2" rendition="simple:additions"/>
+            <pb facs="tcp:38585:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:38585:3"/>
+            <p>
+               <gap reason="missing" extent="2+ pages">
+                  <desc>〈2… pages missing〉</desc>
+               </gap>never acted immodeſtly, or broke the peace of the Church about it; but have uſed all private ways to obtain a Remedy.</p>
+            <p>You know that <hi>Ten years ſince,</hi> I preſented ſome of you with a few <hi>Queries,</hi> in hopes they might have put ſome upon new Studies, and thereby have begotten a better Underſtanding: And I have ſome ground to think they were not with<g ref="char:EOLhyphen"/>out effect; becauſe I find the Spirits of ſome men more moderate than formerly.</p>
+            <p>But that not anſwering my deſigned end, to remove the Stumbling Block out of the way of the Churches Peace, hath put me upon this pre<g ref="char:EOLhyphen"/>ſent undertaking; by which I hope to prevail upon you, either to <hi>renounce an Errour,</hi> taken up in the <hi>heat of Zeal,</hi> or appear to give us ſuch demonſtration of its Truth and Certainty, as may tend to our Satisfaction.</p>
+            <p>My Brethren, I do not in this take upon me to be your Dictator, but with all Submiſſion to be your Remembrancer, to preſent thoſe things to your view, which by a precipitate and miſ-in<g ref="char:EOLhyphen"/>formed Judgment, and the want of due Examinati<g ref="char:EOLhyphen"/>on have been obſcured.</p>
+            <p>I know in this caſe, things have been taken upon truſt, and men have not ſo warily conſi<g ref="char:EOLhyphen"/>dered them as the cauſe requireth; and ſome
+<pb facs="tcp:38585:3"/>mens duty eſpecially doth oblige them unto. What I have ſaid about the ſixth of <hi>Geneſis,</hi> is ſufficient to evince, that there is not any certain or ſafe Concluſion to be educed from thence, to prove <hi>B</hi>'s poſition. And what I have ſaid touch<g ref="char:EOLhyphen"/>ing my own Notion upon the Text, is left to every one to think as he pleaſeth. It's no Article of any man's <hi>Creed</hi> that I know of, but my own <hi>Opinion,</hi> which I muſt retain, till I ſee cauſe from more cogent Arguments to alter the ſame. And what I have ſaid concerning <hi>the Doctrine of Ba<g ref="char:EOLhyphen"/>laam,</hi> though I never heard any thing leſs or more from any man about it, either by Word or Writing; yet I have ſince been informed, that the Learned Doctor <hi>Hammond</hi> carries it the ſame way.</p>
+            <p>I have endeavoured all I can to ſhew my ſelf <hi>impartial,</hi> and have ſtated the Controverſie tru<g ref="char:EOLhyphen"/>ly, without abuſing my <hi>Antagoniſt,</hi> or wronging his ſenſe; endeavouring to the utmoſt to bring the Truth to the light, both in the former and later parts hereof. And for thoſe Conſiderations I have put you upon, I have not done it preſumptuouſly, but with all ſeriouſneſs, hoping you will be per<g ref="char:EOLhyphen"/>ſwaded calmly to conſider the whole, and then I doubt not but my Endeavours will have their de<g ref="char:EOLhyphen"/>ſired Effect.</p>
+            <pb facs="tcp:38585:4"/>
+            <p>As for the Advice I have given to the <hi>
+                  <g ref="char:V">Ʋ</g>nmar<g ref="char:EOLhyphen"/>ried,</hi> I have done it in all ſincerity, hoping it may be a means to preſerve ſome from wounding themſelves; and I hope you will alſo be ready to adviſe and counſel the Brethren for the beſt.</p>
+            <p>My Brethren, bear with the <hi>roughneſs of the Style;</hi> you know from whom it is, and therefore need not think it ſtrange; and if you object, I might have had Aſſiſtance that could have preſen<g ref="char:EOLhyphen"/>ted it in a more refined and poliſh'd Dreſs: Know, I have declined it for two Reaſons.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe I ſee men ſo backward to aſſiſt in things of this kind.</p>
+            <p>
+               <hi>Secondly,</hi> That whatſoever is blame-worthy, ei<g ref="char:EOLhyphen"/>ther in the <hi>Matter, Manner,</hi> or <hi>Time of its Publi<g ref="char:EOLhyphen"/>cation,</hi> &amp;c. ſhall reſt upon my own Head, none elſe being concerned therein.</p>
+            <p>My Brethren, I leave theſe things with you, and beg your moſt <hi>ſerious</hi> and Chriſtian <hi>Conſideration</hi> thereof, craving once more your <hi>Excuſe,</hi> and the Bleſſing of God upon theſe, and all other my weak Endeavours: Remaining,</p>
+            <closer>
+               <signed>
+                  <hi>Your affectionate Brother in the Bonds of the Goſpel,</hi> Stephen Tory.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:38585:4"/>
+            <head>THE EPISTLE To the REAEER.</head>
+            <opener>
+               <salute>Courteous Reader:</salute>
+            </opener>
+            <p>IF thou be a <hi>Stranger</hi> to this <hi>Controverſie,</hi> I beg thy Pardon, and intreat thy candid reſentment of my En<g ref="char:EOLhyphen"/>deavours herein. Think not that <hi>Pride</hi> hath put me upon this undertaking, but, the earneſt deſire I have to ſerve the Church of God in my Generation, hath excited me there<g ref="char:EOLhyphen"/>unto: that, if poſſible, I may be an inſtrument of Peace, to re<g ref="char:EOLhyphen"/>concile diſſenting Brethren, and relieve afflicted Spirits.</p>
+            <p>I beg thy Pardon for my weakneſs, that I ſhould ſo clown<g ref="char:EOLhyphen"/>iſhly accoſt thee, and meanly treat thee in the whole of this Diſ<g ref="char:EOLhyphen"/>courſe. I tell thee, it is all like my Self, being a perſon of Low Extract, and leſs Education; having never had the oppor<g ref="char:EOLhyphen"/>tunity of being rightly inſtructed in my <hi>Native Tongue.</hi> In<g ref="char:EOLhyphen"/>deed, thou mayſt the rather think me preſumptuous; but I do tell thee truly, could I have ſeen any other take this task in hand, I ſhould not have attempted it: And ſhould now re<g ref="char:EOLhyphen"/>joyce, if this weak Endeavour of mine might be a means to prompt ſome better and more fit Perſon to undertake this Great Work; which I do acknowledge too great for me, and which I ſhould never have undertaken, did I not ſuppoſe a neceſſity thereof.</p>
+            <p>
+               <hi>Courteous Reader,</hi> I further crave thy excuſe, in my No<g ref="char:EOLhyphen"/>tion concerning the <hi>Sons of God,</hi> mentioned in <hi>Gen. 6.</hi> I know it's <hi>Novel,</hi> and may ſeem ſtrange to many; but conſi<g ref="char:EOLhyphen"/>der, I do not deliver it as a Point of <hi>Faith,</hi> but as my private <hi>Opinion.</hi> And although I oppoſe ſome <hi>Learned Men,</hi> yet I hope I may be excuſed, ſeeing they have only <hi>aſſerted,</hi> without giving us their <hi>Reaſons</hi> to prove thoſe <hi>Aſſertions,</hi> which I
+<pb facs="tcp:38585:5"/>have Endeavoured to do, whether they are good or not, I leave to the Judgment of every honeſt and ingenious Man; and as for the froward and evil-minded, as I expect no good from them, ſo I crave nothing of them.</p>
+            <p>Good <hi>Reader,</hi> I do further beg thy favourable conſtructi<g ref="char:EOLhyphen"/>on, not only of my Self, but alſo of my Brethren, whom I op<g ref="char:EOLhyphen"/>poſe. Think not the worſe of us, nor of our Profeſſion, be<g ref="char:EOLhyphen"/>cauſe of theſe little differences: but rather, conſider that we are men of <hi>Conſcience,</hi> and ſuch as fear to offend God; and although in this thing ſome may be over Righteous, and their Zeal may be greater than their Knowledge; yet know, this is an Error on the right hand: for though an over-Zeal may have ſlain its Thouſands, careleſſneſs, coldneſs and re<g ref="char:EOLhyphen"/>miſneſs hath ſlain its Ten thouſands.</p>
+            <p>And further, conſider thou haſt hear no Dreams, or En<g ref="char:EOLhyphen"/>thuſiaſtick Notions impoſed upon thee, either by <hi>A.</hi> or <hi>B.</hi> but both endeavour a deciſion by the <hi>Written Word of God,</hi> and to which I hope we ſhall both be willing upon conviction, to ſubmit our ſelves.</p>
+            <p>What is here ſaid by <hi>A.</hi> I pray examine the Scriptures, and ſee if they do not bear Witneſs for him: and where the Scripture is ſilent, have recourſe to Reaſon, and ſee if it be not on <hi>A's</hi> ſide. And as for <hi>B.</hi> there are ſome <hi>Learned Men</hi> on his ſide, as Dr. <hi>Fuller</hi> in his Treatiſe on the Book of <hi>Ruth.</hi> So that if thou rightly conſider, thou mayeſt make a favour<g ref="char:EOLhyphen"/>able conſtruction of us both; and conclude we are not wil<g ref="char:EOLhyphen"/>ling to take things upon truſt, but to lay out our ſelves in our Endeavours to attain the right knowledge of the <hi>Truth,</hi> which all wiſe men will account our Commendation. I leave what I have ſaid to thy kind acceptance, and remain</p>
+            <closer>
+               <signed>
+                  <hi>Thy Friend to ſerve thee to my Power,</hi> Stephen Tory.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:38585:5"/>
+            <head>A DISCOURSE OF Mixt Marriages.</head>
+            <sp>
+               <speaker>A.</speaker>
+               <p>WELL met <hi>Brother B.</hi> how do you do?</p>
+               <p>How doth your <hi>Wife</hi> and <hi>Family?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Well in Health bleſſed be God.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>What makes you then look ſo <hi>diſconſolate?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I am <hi>troubled</hi> at ſomething that hath hapned <hi>in our Congregation</hi> of late.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Pray what may that be?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>We have many perſons among us that have <hi>offen<g ref="char:EOLhyphen"/>ded in Marriage,</hi> whom we are conſtrained to <hi>deal with,</hi> and <hi>withdraw</hi> from; and many more (I am doubtful) will fall under the <hi>ſame cenſure:</hi> And that which adds much to my <hi>Trouble,</hi> and the <hi>Trouble</hi> of divers of our Friends, is, that there are ſome that ſeem to juſtifie them in their <hi>Diſorder,</hi> or at leaſt to hinder the Church from <hi>proceeding</hi> againſt them. Nay, <hi>ſome Congregations</hi> there are, that when we have <hi>excommunicated</hi> a Man or Woman for the <hi>Sin of Marrying</hi> out of the way of God, will notwithſtanding receive them into their <hi>Com<g ref="char:EOLhyphen"/>munion,</hi> which makes our <hi>Dealing <g ref="char:V">Ʋ</g>ſeleſs</hi> and <hi>Ineffe<g ref="char:EOLhyphen"/>ctual.</hi> This is my great <hi>Trouble,</hi> and the <hi>Trouble</hi> of many.</p>
+            </sp>
+            <pb facs="tcp:38585:6"/>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I hope <hi>Brother,</hi> there is none of you <hi>oppoſe</hi> Mar<g ref="char:EOLhyphen"/>riage; for <hi>Marriage is honourable in all,</hi> Heb. 13.4. <hi>The Ordinance of God,</hi> Gen. 2.24. Why then ſhould you be <hi>offended</hi> at Marriage?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>We are not <hi>offended at Marriage,</hi> but (as I told you) at <hi>marrying out of the way of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Why, hath any uſed any <hi>profane</hi> or <hi>unlaw<g ref="char:EOLhyphen"/>ful Cuſtoms</hi> that are <hi>offenſive</hi> or <hi>ſcandalous</hi> in their <hi>Mar<g ref="char:EOLhyphen"/>riage?</hi> Or have any married within the Line of <hi>Con<g ref="char:EOLhyphen"/>ſanguinity,</hi> contrary to the <hi>Law, Levit.</hi> 18. from <hi>ver.</hi> 6. to the 20th. compared with <hi>chap.</hi> 20. <hi>v.</hi> 11, 12, 14. 17, 19, 20?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>No, there is nothing of all this; but thoſe I ſpeak of, have married perſons that are not of the <hi>Faith,</hi> are not <hi>Members of the Church,</hi> are not <hi>baptized,</hi> are not ſuch as we can look upon to be in the <hi>Lord:</hi> And this is our <hi>Trouble.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But are the Perſons they have married <hi>rude and profane,</hi> or are they <hi>Sober perſons,</hi> of a <hi>good Life and honeſt Report?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>They are generally <hi>Honeſt Sober Perſons,</hi> ſome <hi>Preſbyterians,</hi> ſome <hi>Independants,</hi> and ſome of the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Why, good Brother, is this your <hi>Trouble?</hi> I am ſorry for your <hi>Weakneſs;</hi> I think it's more cauſe of <hi>Joy</hi> than <hi>Sorrow,</hi> that we (who but a few years ſince) were accounted not <hi>fit to live,</hi> ſhould be ſo much in the Fa<g ref="char:EOLhyphen"/>vour of thoſe perſons as to make Marriages with Us; and more eſpecially we ſhould take it well from them, who have the <hi>Government</hi> in their Hand, and we ought to be <hi>thankful to God</hi> for ſuch a <hi>Mercy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Do you account it a. <hi>Mercy</hi> that we are allowed to <hi>commit Sin,</hi> and <hi>break</hi> the Law of God, and that our Members do it?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I am not adviſed of either of theſe: For <hi>Sin</hi> it cannot be, unleſs it be the <hi>breach</hi> of ſome <hi>Law;</hi> and I
+<pb facs="tcp:38585:6"/>am ignorant of any ſuch <hi>Law,</hi> and think you and o<g ref="char:EOLhyphen"/>thers miſtaken, and look upon it to be an effect of the heat of your <hi>Zeal</hi> and <hi>Paſſion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It was always contrary to the mind of God, that <hi>his Children</hi> ſhould marry with the <hi>Children of Men.</hi> Marriage is a ſacred thing, and ought to be well conſi<g ref="char:EOLhyphen"/>dered before it be performed; and we ſee when God made Woman, he made her a <hi>help meet</hi> for man; and if for a <hi>meet help,</hi> it muſt be in the <hi>beſt things:</hi> For where the Man and his Wife oppoſe each other, they are ſo far from being <hi>meet helps,</hi> that they are no helps at all. So that ſuch Marriages are contrary to the firſt Inſtitution of Marriage, and the very End of God in making of Wo<g ref="char:EOLhyphen"/>man, Gen. 2.18. <hi>I will make a help meet for him; and he made a Woman, and brought her to the Man,</hi> ver. 22. <hi>Who ſaid, this is now Bone of my Bones, and Fleſh of my Fleſh, ſhe ſhall be called Woman, becauſe ſhe was taken out of Man,</hi> ver. 23. <hi>Therefore ſhall a man leave his Fa<g ref="char:EOLhyphen"/>ther and Mother, and cleave unto his Wife, and they ſhall be one Fleſh,</hi> ver. 24.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Take the Text in your Sence; yet I fear, that <hi>Baptiſm</hi> doth not always <hi>qualiſie perſons</hi> ſo, as to make them <hi>meet helps</hi> in the beſt things: but if it did, yet that was not the <hi>Diſign</hi> of God Almighty in Creating Woman: For if it had, you ſee how contrary the firſt Woman proved; ſhe being <hi>firſt in the Tranſgreſſion,</hi> and a <hi>Temptation</hi> to her Husband, <hi>Gen</hi> 3.6, 12.</p>
+               <p>
+                  <hi>Secondly,</hi> its plain, that the <hi>Deſign</hi> of God in the making of a <hi>Woman,</hi> was <hi>Propagation.</hi> God having made all the other Creatures Male and Female, found that he who was to have Dominion over all the reſt, <hi>Gen.</hi> 1.26. was wanting in the <hi>principal part</hi> that might enable him thereunto. For if <hi>Beaſts, Birds</hi> and <hi>Fiſhes</hi> did encreaſe, and man was yet <hi>alone;</hi> Man did not only come ſhort of Beaſts in his <hi>Delights</hi> and <hi>Pleaſures,</hi> but was alſo want<g ref="char:EOLhyphen"/>ing in <hi>Power,</hi> and ſo could not have <hi>Dominion</hi> over the
+<pb facs="tcp:38585:7"/>reſt. Now the only Wiſe God ſaw man wanted a <hi>help for this end,</hi> which you ſee was <hi>Propagation,</hi> and not <hi>De<g ref="char:EOLhyphen"/>votion</hi> (as you imagine:) For ſo ſaith the Text, <hi>Gen</hi> 2.20. <hi>But for</hi> Adam, <hi>there was not found for him an help meet.</hi> And if you ask for what end? Its plain. <hi>Gen.</hi> 1.28. <hi>And God bleſſed them, and ſaid unto them, be fruitful, and multiply, and repleniſh the Earth, and ſubdue it, and have Dominion over the Fiſh of the Sea, and over the Fowls of the Air, and over every living thing that moveth upon the Earth.</hi> Which could not have been without ſuch a <hi>help</hi> in <hi>his kind,</hi> as other Creatures had in <hi>their kind. And the Lord ſaid, it is not good that the man ſhould be alone, I will make him a help meet for him,</hi> Gen. 2.18. <hi>And he made a Woman, and brought her unto the man,</hi> ver. 22. <hi>And</hi> Adam ſaid, <hi>This is now Bone of my Bones, and Fleſh of my Fleſh,</hi>
+                  <note n="*" place="margin">Fleſh <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leſh, Spirit ſpirit.</note> mind that, <hi>Fleſh of my Fleſh,</hi> and not <hi>Spirit</hi> of my <hi>Spirit,</hi> and <hi>Soul</hi> of <hi>my Soul. There<g ref="char:EOLhyphen"/>fore ſhall a man leave his Father and his Mother, and cleave unto his Wife, and they ſhall be one Fleſh,</hi> not one <hi>Spirit.</hi> And therefore where this Relation is made mention of in <hi>Scripture,</hi> it's under the Notion of a <hi>Fleſhly Relati<g ref="char:EOLhyphen"/>on,</hi> ſhewing that this Relation may be where they dif<g ref="char:EOLhyphen"/>fer in the <hi>Spirit, Mat.</hi> 5.19. <hi>Mark</hi> 10.8. 1 <hi>Cor.</hi> 7.14. And let me tell you, was this Text, <hi>Gen.</hi> 2.18. brought to prove the unlawfulneſs of a Marriage, where <hi>Age</hi> or <hi>other Impediments</hi> might be ſuppoſed to prevent <hi>Increaſe,</hi> there might be ſome reaſon for it; but in this caſe, when it is brought to prove, that perſons <hi>differing in Religion</hi> may not marry, it is altogether impertinent.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But we ſee what an <hi>Offence</hi> this kind of <hi>Marriage</hi> was to God in the <hi>Old World:</hi> For in <hi>Gen.</hi> 4.26. it's ſaid, <hi>Then began men to call upon the Name of the Lord.</hi> And in <hi>Gen.</hi> 6.1, 2. <hi>And it came to paſs, when men be<g ref="char:EOLhyphen"/>gan to multiply upon the Face of the Earth, and Daughters were born unto them, that the Sons of God ſaw the Daugh<g ref="char:EOLhyphen"/>ters of Men, that they were fair, and they took them Wives
+<pb facs="tcp:38585:7"/>of all which they chooſe.</hi>
+                  <note n="*" place="margin">
+                     <hi>N. B.</hi> Diſtinct<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> Now mind the Diſtinction, <hi>The Sons of God,</hi> thoſe that <hi>called</hi> upon his Name, <hi>chap.</hi> 4 26. <hi>They took Wives of the Daughters of Men, chap.</hi> 6.2. This became a <hi>Sin,</hi> a <hi>crying Sin,</hi> ſuch a <hi>ſin</hi> as God could not <hi>bear;</hi> and therefore <hi>he deſtroyed man</hi> whom he had made, <hi>ver.</hi> 3. And the Lord ſaid, <hi>My Spirit ſhall not always ſtrive with man, for that he alſo is Fleſh.</hi> And <hi>ver.</hi> 7. <hi>The Lord ſaid, I will deſtroy man whom I have created, from the Face of the Earth, both Man and Beaſt, and the creeping things, and the Fowls of the Air, for it repenteth me that I have made them.</hi> Now here is the <hi>Sin</hi> plain, the <hi>Sons of God,</hi> took the <hi>Daughters of Men:</hi> The <hi>Puniſhment</hi> plain, God <hi>deſtroyed the World</hi> for this <hi>Sin:</hi> as is plain in this Chapter, and the Chapter following. This Text I hope is full proof, and may ſerve to warn all Men and Women, that they <hi>commit</hi> not the like <hi>Sin,</hi> leaſt they incur a more <hi>ſevere Puniſtment</hi> having had ſuch a <hi>ſevere Warning.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Brother, what you obſerve from <hi>Gen.</hi> 4.26. <hi>Then began men to call upon the Name of the Lord,</hi> is very que<g ref="char:EOLhyphen"/>ſtionable: For <hi>Expoſiters</hi> are not agreed about the <hi>true Interpretation</hi> of thoſe Words; as you may ſee by the <hi>Margen</hi> of your Bible which reads it thus, <hi>Then began Men to call themſelves by the name of the Lord.</hi> And
+<note n="*" place="margin">See <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Ainſw<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> the <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Annot<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> upon <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> place.</note> Mr. <hi>Ainſworth</hi> hath it, <hi>Then men began to profane the Name of the Lord,</hi> or <hi>profanedly</hi> to <hi>call</hi> on the Name of the Lord. And to this agreeth the <hi>Aſſembly</hi> in their <hi>Annotations</hi> upon the place. And therefore to conclude from hence, that theſe were the <hi>Church of God:</hi> The <hi>Sons of God:</hi> In oppoſition to <hi>Carnal</hi> and <hi>Worldly</hi> Men, is altogether <hi>unſafe.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> It's as <hi>uncertain</hi> to determine who thoſe Sons of God were from <hi>Gen.</hi> 6.2. for the Scripture doth not explain <hi>what</hi> nor <hi>who</hi> they were, nor from <hi>whence:</hi> and the Learned are not agreed about it.
+<note n="*" place="margin">See <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>ly</hi> on <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>thers. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 63, 6<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> Mr. <hi>Dally</hi> ſaith, that <hi>Juſtin Martyr, Irenaeus,</hi> and <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi>
+                  <pb facs="tcp:38585:8"/>took them to be Angels that took upon them an Humane Shape, and did accompany with Women; and that this was the <hi>ſin</hi> for which God deſtroyed the <hi>Old World.</hi> And of this mind is Dr. <hi>Prideaux,</hi> and ma<g ref="char:EOLhyphen"/>ny ſince him. So that you ſee it's no eaſie thing to de<g ref="char:EOLhyphen"/>termine.</p>
+               <p>
+                  <hi>Thirdly,</hi> And for that Conceit, that theſe Sons of God were of the Race of <hi>Seth,</hi> and the Daughters of <hi>Men,</hi> of the Seed of <hi>Cain,</hi> is ſtrange and uncharitable: For that ſuppoſeth, that none of the Sons of <hi>Seth</hi> were Irre<g ref="char:EOLhyphen"/>ligious, nor any of the Daughters of <hi>Cain</hi> Pious.</p>
+               <p>
+                  <hi>Fourthly,</hi> I can alſo tell you of another <hi>Opinion,</hi> which (for ought I know) is as like to <hi>Truth</hi> as any of theſe: And, that is, That theſe Sons of <hi>God</hi> were a generation of <hi>Men,</hi> begot by <hi>Adam</hi> before his Fall; and were cal<g ref="char:EOLhyphen"/>led the Sons of <hi>God,</hi> in oppoſition to other <hi>Men,</hi> be<g ref="char:EOLhyphen"/>cauſe they differed from them in Nature. The Sons of <hi>God</hi> being born in the ſtate of <hi>Innocence,</hi> and the Daugh<g ref="char:EOLhyphen"/>ters of <hi>Men</hi> in the ſtate of <hi>Corruption:</hi> and if ſo, the dif<g ref="char:EOLhyphen"/>ference was great, and the offence great; for by this Conjunction, the whole Maſs of Mankind became cor<g ref="char:EOLhyphen"/>rupt and weak: for the Innocent perſons did not only debaſe their Off-ſpring, which ought to have been pre<g ref="char:EOLhyphen"/>ſerved,) but did alſo learn the <hi>corrupt manners</hi> of fal<g ref="char:EOLhyphen"/>len man.</p>
+               <p>Now this Opinion ſuppoſeth the <hi>Garden of Eden</hi> to remain till the <hi>Flood,</hi> and thoſe <hi>innocent perſons</hi> to inha<g ref="char:EOLhyphen"/>bit therein, and to have their converſation with God, as <hi>Adam</hi> had before his fall. And that they were as Meſ<g ref="char:EOLhyphen"/>ſengers from God to Mankind, at ſuch times and upon ſuch occaſions as pleaſed him. And for the confirmation of this Opinion, there are offered theſe Reaſons fol<g ref="char:EOLhyphen"/>lowing.</p>
+               <p>
+                  <hi>Firſt,</hi> When <hi>Adam</hi> was drove out of <hi>Paradiſe,</hi> the Garden was yet preſerved, and the Tree of Life yet re<g ref="char:EOLhyphen"/>mained ſtanding, <hi>Gen.</hi> 3.24. And God Almighty (who
+<pb n="7" facs="tcp:38585:8"/>doth nothing in vain,) ſet a Guard upon the Tree of Life, to keep fallen Man from coming near it, <hi>Gen.</hi> 3.24. Now what was this Garden and this Tree for, (if all Mankind had been driven then out when <hi>Adam</hi> was,) was it kept for Birds and Beaſts? I pray conſider at leiſure.</p>
+               <p>
+                  <hi>Secondly,</hi> The Text ſaith, <hi>When men began to multiply upon the face of the Earth, and Daughters were born unto them, that the Sons of God ſaw the Daughters of men that they were fair, and they took them Wives of all which they choſe.</hi> Which ſeemeth as if their acquaintance had not been from their <hi>Cradles,</hi> but by accident, and upon ſome more than ordinary account; for ſuch manner of Speech is not proper in common Caſes.</p>
+               <p>
+                  <hi>Thirdly,</hi> As their acquaintance ſeemeth <hi>ſtrange</hi> and <hi>accidental,</hi> ſo the effects of their union was <hi>ſtrange</hi> and <hi>unexpected</hi> to the then World. For the Text ſaith, <hi>verſ.</hi> 4. <hi>When the Sons of God came in unto them, (viz.</hi> the Daugh<g ref="char:EOLhyphen"/>ters of men) <hi>and they bare children to them, the ſame be<g ref="char:EOLhyphen"/>came mighty men.</hi> Which imports, that the Eyes of the people were fixed upon theſe Marriages, to ſee what would be the effect thereof. And therefore it was ſome<g ref="char:EOLhyphen"/>thing not common among them.</p>
+               <p>
+                  <hi>Fourthly,</hi> Thoſe <hi>prodigious Births</hi> which were in thoſe dayes, gives occaſion to think the <hi>difference</hi> to lie in their <hi>Natures,</hi> and not in their <hi>Religion.</hi> For if it were in their <hi>Religion,</hi> why ſhould not the ſame Effects follow now? And why ſhould not we have a Race of <hi>Giants</hi> from ſuch a Conjunction, as well as they?</p>
+               <p>
+                  <hi>Fifthly,</hi> The Text ſaith, verſ. 12. <hi>All fleſh had corrup<g ref="char:EOLhyphen"/>ted its way,</hi> which doth imply, ſome fleſh was <hi>pure</hi> and <hi>uncorrupted</hi> till this time. And if ſo, who muſt they be? <hi>Angels</hi> they were not, for they are not <hi>Fleſh:</hi> Men of the ſtock of <hi>Adam after the Fall,</hi> they could not be, be<g ref="char:EOLhyphen"/>cauſe they were <hi>corrupted</hi> by the Fall. Who then were they, and from whence did they come? Nothing more
+<pb facs="tcp:38585:9"/>rational than to conclude, they were the Inhabitants o the Garden, begot <hi>before the Fall;</hi> and not tainted with <hi>Sin</hi> by <hi>Adam</hi>'s tranſgreſſion. And if they were ſuch perſons, it's then no wonder that God was provoked thereby: To ſee Man <hi>pure</hi> and <hi>uncorrupt, Innocent,</hi> and as yet <hi>Immortal;</hi> to debaſe himſelf, and accompany with <hi>corrupt</hi> and <hi>fallen</hi> Women, only becauſe they were Fair and Beautiful: And alſo to learn the manners of <hi>fallen Man,</hi> and to walk in his depraved wayes. As appears they did by the whole tenor of the Chapter, <hi>Gen.</hi> 6.</p>
+               <p>But again, ſuppoſing what hath been ſaid to be but a <hi>Dream;</hi> and that <hi>Juſtin Martyr</hi> and others of his mind were miſtaken in their Notions alſo. Nay, allowing you that theſe Men were the Sons of <hi>Seth,</hi> and the Women were the Daughters of <hi>Cain;</hi> or, that the Men were <hi>Members</hi> of the <hi>Church</hi> of <hi>God,</hi> and the Women the <hi>Daughters</hi> of <hi>carnal</hi> and <hi>worldly Men;</hi> yet this would not prove thoſe Marriages <hi>ſinful;</hi> or, that the World was drowned becauſe of the <hi>ſin</hi> committed by thoſe <hi>Marriages.</hi>
+               </p>
+               <p>For, <hi>Firſt,</hi> if thoſe Marriages were <hi>ſinful,</hi> then they were the <hi>breach</hi> of ſome <hi>Law,</hi> which I pray you to ſhew in anſwer to theſe Quaeries at ſome other time.</p>
+               <p n="1">1. What <hi>Law</hi> they broke?</p>
+               <p n="2">2. When that <hi>Law</hi> was given?</p>
+               <p n="3">3. By <hi>whom</hi> it was given?</p>
+               <p n="4">4. To <hi>whom</hi> it was given?</p>
+               <p n="5">5. <hi>Where</hi> it was given?</p>
+               <p n="6">6. The <hi>penalty</hi> for breaking it?</p>
+               <p n="7">7. The <hi>reward</hi> promiſed to thoſe that kept it?</p>
+               <p>Further, Conſider that the <hi>Act</hi> of Marriage might be lawful, and yet the <hi>Accident</hi> that might follow <hi>unlaw<g ref="char:EOLhyphen"/>ful;</hi> As may appear by theſe inſtances following.</p>
+               <p>
+                  <hi>Firſt,</hi> It's <hi>lawful</hi> for a man to kindle a Fire in his own Houſe, for his <hi>lawful occaſions;</hi> but by ill management he may ſet his own Houſe on fire, and thereby deſtroy
+<pb facs="tcp:38585:9"/>both his own and his Neighbours alſo, which is <hi>unlaw<g ref="char:EOLhyphen"/>ful</hi> to be done.</p>
+               <p>
+                  <hi>Secondly,</hi> A man may travel an hundred Miles into the Country with his Neighbours Wife <hi>lawfully;</hi> but having opportunity, and by giving way to temptation, they may commit <hi>ſin,</hi> which is <hi>unlawful.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> It was <hi>lawful</hi> for <hi>Dinah</hi> to walk abroad, and view the Daughters of the Land; but what followed thereupon was <hi>unlawful, Gen.</hi> 34.1, 2, 3.</p>
+               <p>
+                  <hi>Fourthly,</hi> It was <hi>lawful</hi> for <hi>David</hi> to ſend his Daughter <hi>Tamar</hi> to make <hi>Amnon</hi> a <hi>Cake;</hi> and both <hi>lawful</hi> and <hi>com<g ref="char:EOLhyphen"/>mondable</hi> in her to go: but what followed was <hi>unlawful,</hi> 2 <hi>Sam.</hi> 13.7, &amp;c. And this might be in the Caſe of theſe Marriages, for ought you or I can perceive.</p>
+               <p>But further, It's hard to conceive that theſe Marriages were <hi>ſinful,</hi> if we conſider that God <hi>bleſſed</hi> them with a great <hi>bleſſing,</hi> in giving them an honourable Off-ſpring, as in <hi>Gen.</hi> 6.4. <hi>When the Sons of God came in unto the Daughters of men, and they bare Children unto them; the ſame became mighty men, which were of Old men of re<g ref="char:EOLhyphen"/>nown.</hi>
+               </p>
+               <p>And further, if theſe Marriages were ſinful, yet not the Sin for which God deſtroyed the <hi>Old World:</hi> As will appear, if we conſider what follows.</p>
+               <p>
+                  <hi>Firſt,</hi> Theſe Marriages if <hi>unlawful,</hi> yet could they not be <hi>univerſal.</hi> And God doth not puniſh ſeverely and univerſally for the ſin of a few, as is plain in the caſe of <hi>Sodom,</hi> Gen. 18.3. <hi>If ten righteous, I will not deſtroy it for ten's ſake.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> The ſin for which the World was drowned, was not only great but univerſal, Gen. 6.12. <hi>God looked upon the Earth, and behold, it was corrupt; for all fleſh had corrupted his way upon the earth.</hi> Verſ. 11. <hi>The earth was alſo corrupt before God, and the earth was filled with violence.</hi> Verſ. 5. <hi>God ſaw the wickedneſs of man was great in the earth, and that every imagination of the thought
+<pb facs="tcp:38585:10"/>of his heart was only evil, and that continually.</hi> Verſ. 6. <hi>And it repented the Lord that he had made man, and it grieved him at his Heart: And the Lord ſaid, I will de<g ref="char:EOLhyphen"/>ſtroy man whom I have created, from the face of the earth.</hi> So that you may ſee, their ſin was not one ſingle Act, but the whole courſe of their Lives was wicked, and that not of ſome few men only, but the whole maſs of Mankind.</p>
+               <p>
+                  <hi>Laſtly,</hi> If all be true as you ſuppoſe, both as to the perſons and ſin, with the puniſhment thereof; yet your buſineſs is not done: you have yet no <hi>Rule</hi> to excommu<g ref="char:EOLhyphen"/>nicate your <hi>Members,</hi> that marry out of your <hi>Church,</hi> from any thing done in this Caſe. For here God is both Judge and Executioner himſelf; whoſe Example you may not follow without a Precept: And Precept you have none. And therefore be pleaſed to deſcend to ſomething more plain and familiar, if you have any thing to offer?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I ſhall.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But if you pleaſe, let us agree upon a plain queſti<g ref="char:EOLhyphen"/>on that may reach our caſe, and proceed accordingly.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Content.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The Queſtion then ſhall be this, (if you pleaſe) <hi>Whether a Contract of Marriage made between two perſons of different perſwaſions about Inſtitutions in matters of Religion being performed and continued in, be lawful or unlawful?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I pray you explain what you mean by <hi>Inſtitutions?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By <hi>Inſtitutions,</hi> I mean that part of Religion which is no way our duty, (nor we in a Capacity to know any thing of it) without a <hi>Command.</hi>
+               </p>
+               <p>And of this kind are divers parts of our Duty, both un<g ref="char:EOLhyphen"/>der the <hi>Law,</hi> and alſo under the <hi>Goſpel;</hi> under the <hi>Law,</hi> there is the <hi>Law</hi> of <hi>Circumciſion,</hi> the <hi>Paſſover,</hi> the <hi>Law</hi> of the <hi>Nazarites,</hi> with diversother things under the <hi>Goſpel,</hi> there is <hi>Baptiſm,</hi> the <hi>Lords Supper,</hi> and <hi>laying on of Hands.</hi>
+               </p>
+               <p>Now, whether a <hi>Contract</hi> of <hi>Marriage</hi> made between
+<pb facs="tcp:38585:10"/>two perſons differing in their Perſwaſions about theſe or ſuch like things, and this Contract performed, and the parties <hi>live together</hi> as Man and Wife: Whether <hi>this Act</hi> be <hi>lawful</hi> or <hi>unlawful?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nlawful;</hi> and that I ſhall prove.</p>
+               <p>
+                  <hi>Firſt,</hi> By the care the <hi>Vertuous</hi> had to avoid <hi>ſuch Mar<g ref="char:EOLhyphen"/>riages.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> By the <hi>command of God, forbidding</hi> ſuch Marriages.</p>
+               <p>
+                  <hi>Thirdly,</hi> By ſhewing the <hi>puniſhment</hi> inflicted upon <hi>ſuch</hi> that <hi>ſo</hi> married.</p>
+               <p>
+                  <hi>Firſt,</hi> for the care of the <hi>Vertuous</hi> to avoid ſuch Mar<g ref="char:EOLhyphen"/>riages, ſee <hi>Gen.</hi> 24.3. <hi>Abraham</hi> ſent his Servant to his <hi>Fathers Houſe,</hi> to take a Wife for his Son <hi>Iſaac.</hi> And <hi>Iſaac</hi> ſent <hi>Jacob</hi> to take a Wife of the Daughters of <hi>La<g ref="char:EOLhyphen"/>ban</hi> his <hi>
+                     <g ref="char:V">Ʋ</g>nkle,</hi> to prevent his marrying with the Daugh<g ref="char:EOLhyphen"/>ters of the Land, <hi>Gen.</hi> 27.46.28.2.</p>
+               <p>Now, why ſhould theſe good people put themſelves to this trouble, had it been lawful to have married with the <hi>Daughters</hi> of the Land, which they might have done, both with <hi>Honour</hi> and <hi>Profit;</hi> had it been <hi>law<g ref="char:EOLhyphen"/>ful</hi> for them to have done it?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Good Men have done things for <hi>Enſamples</hi> to others, as <hi>Paul,</hi> 2 <hi>Theſ.</hi> 3.8, 9. 1 <hi>Cor.</hi> 9. from <hi>ver.</hi> 1. to the 9th. And as <hi>Nehemiah</hi> did, <hi>Nehem.</hi> 5.15. And <hi>
+                     <g ref="char:V">Ʋ</g>riah,</hi> 2 <hi>Sam.</hi> 11.11. All which did refuſe to do thoſe things they might <hi>lawfully</hi> do, to make themſelves <hi>Enſamples</hi> to others.</p>
+               <p>
+                  <hi>Secondly,</hi> They might do theſe things, for the <hi>Love</hi> they had to their <hi>own Kindred,</hi> and the <hi>Honour</hi> of their <hi>own Family;</hi> a thing <hi>dear</hi> to the moſt of men.</p>
+               <p>
+                  <hi>Thirdly,</hi> The Diſeſteem they had for the <hi>unnurtured Canaanites:</hi> As many in <hi>England</hi> at this day, do not ap<g ref="char:EOLhyphen"/>prove of marrying with <hi>Strangers.</hi> For which of theſe it was, or what elſe, I will not determine; but ſure I am, not upon the Account of <hi>Religion:</hi> As appears,</p>
+               <pb facs="tcp:38585:11"/>
+               <p>
+                  <hi>Firſt, Abraham</hi> had the <hi>Church of God</hi> according to Inſtitution in his own Houſe, and could not want a Wife for his Son amongſt his <hi>own</hi> Servants. For he that brought a Family out of <hi>Haran, Gen.</hi> 12.5. and had 318 Men-Servants <hi>born</hi> in his own houſe, <hi>Gen.</hi> 14.14. could not be without <hi>Women</hi> to make his Son a <hi>Wife,</hi> if <hi>Religion</hi> had been the thing <hi>deſigned:</hi> For the Law of <hi>Circumciſion</hi> was given to <hi>Abraham</hi> long before <hi>Iſaac</hi> was <hi>born.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> When <hi>Iſaac</hi> ſent <hi>Jacob</hi> to the houſe of <hi>La<g ref="char:EOLhyphen"/>ban,</hi> it could not be upon the account of <hi>Religion;</hi> for the ſame reaſon before alledged. And beſides, <hi>Laban</hi> was an <hi>Idolater, Gen.</hi> 31.30. And <hi>Rachel</hi> no leſs, when ſhe ſtole her Fathers <hi>Gods, ver.</hi> 19. and framed a Lye to hide them, <hi>ver.</hi> 34. A Daughter of <hi>Heth</hi> could have done little worſe than this. So that you may ſee, it was not <hi>Religion</hi> that cauſed theſe good men to travail ſo far for Wives, what ever it were. Therefore I pray you come to the next.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Secondly,</hi> The Command of God <hi>forbidding</hi> ſuch Marriages, <hi>Exod.</hi> 34.12. <hi>Take heed to thy ſelf, leſt thou make a Covenant with the Inhabitants of the Land whither thou goeſt, leſt it be for a Snare in the midſt of thee,</hi> ver. 16. <hi>And thou take of their daughters to thy ſons, and their daugh<g ref="char:EOLhyphen"/>ters go a whoring after their Gods, and make thy ſons go a whoring after their Gods.</hi> And in <hi>Deut.</hi> 7.3. <hi>Thou ſhalt not make Marriages with them; thy daughter ſhalt thou not give unto his ſon, nor take his daughter unto thy ſon: For ſhe will turn away his heart from following me, that they may ſerve other Gods.</hi> And in <hi>Joſhua</hi> 23.12. <hi>If ye in any wiſe go back, and cleave unto the remnant of theſe Na<g ref="char:EOLhyphen"/>tions, even thoſe that remain amongſt you; and ſhall make Marriages with them, and go in unto them, and they to you; Know for certain, that the Lord will no more drive out any of theſe Nations from before you; but they ſhall be ſnares and traps unto you, and ſcourges in your ſides, and thorns
+<pb facs="tcp:38585:11"/>in your eyes, untill you periſh off this good Land which the Lord your God hath given you.</hi>
+               </p>
+               <p>Now having given you theſe Proofs out of the <hi>Old Teſtament,</hi> I proceed to ſome farther proof out of the <hi>New Teſtament;</hi> and I ſhall begin with that of the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul,</hi> in 1 <hi>Cor.</hi> 6.18. <hi>Flee Fornication;</hi> and <hi>Revel.</hi> 2.14. <hi>But I have a few things againſt thee, becauſe thou haſt there them that hold the Doctrine of</hi> Balaam, <hi>who taught</hi> Balak <hi>to caſt a ſtumbling block before the Children of</hi> Iſrael, <hi>to eat things ſacrificed unto Idols, and to commit Fornica<g ref="char:EOLhyphen"/>tion.</hi> And 2. <hi>Cor.</hi> 6.14. is plain, <hi>Be not unequally yoked together with <g ref="char:V">Ʋ</g>nbelievers: for what fellowſhip hath righte<g ref="char:EOLhyphen"/>ouſneſs with unrighteouſneſs,</hi> &amp;c. And ſhall conclude with 1 <hi>Cor.</hi> 7.39. <hi>The Wife is bound by the Law as long as her husband liveth; but when her husband is dead, ſhe is at li<g ref="char:EOLhyphen"/>berty to be married to whom ſhe will, only in the Lord.</hi>
+               </p>
+               <p>Thus I have proved my poſition by the Word of Truth, That a Contract of Marriage made between two perſons of different opinions in the matters of <hi>Inſtitu<g ref="char:EOLhyphen"/>ted Religion,</hi> &amp;c. is unlawful. All theſe Texts forbid<g ref="char:EOLhyphen"/>ding Marriage with the <hi>uncircumciſed,</hi> with thoſe that are in the <hi>Harlot ſtate</hi> with Unbelievers, and ſuch as are not in the Lord (as no perſon <hi>unbaptized</hi> is.) I do therefore expect your Compliance or Anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Comply with you I cannot, becauſe of your ma<g ref="char:EOLhyphen"/>ny miſtakes; but you ſhall have my Anſwer in order, as ſoon as I can give it.</p>
+               <p>
+                  <hi>Firſt,</hi> Then you miſtake the nature of thoſe three Texts, <hi>Exod.</hi> 34.12. <hi>Deut.</hi> 7.3. <hi>Joſ.</hi> 23.12. which you take to be Commands relating to Piety and Devotion; when well conſidered they are no Commands at all in a proper ſenſe, but Cautions relating to their prudent and politick Government, as may appear from the ſenſe of the Words, which adviſeth to forbear theſe Marri<g ref="char:EOLhyphen"/>ages, not as God enjoynes other things, becauſe they were Abominations, <hi>Levit.</hi> 18.22. <hi>Thou ſhalt not lie with
+<pb facs="tcp:38585:12"/>Mankind as with Womankind, it is abomination.</hi> And verſ. 21. <hi>Thou ſhalt not let any of thy Seed paſs through the fire unto</hi> Molech; <hi>neither ſhalt thou prophane the name of thy God, I am the Lord.</hi> See alſo Chap. 20. v. 1, 2, 3, 4, 5, 6. And the Reaſon is rendered in Chap. 18.27. <hi>For all theſe abominations have the men of the Land done which were before you, and the Land is defiled.</hi> Neither as God forbids killing and ſtealing, <hi>Thou ſhalt not kill, Thou ſhalt not ſteal,</hi> becauſe killing and ſtealing are evil in their own Nature: No, but God forbids theſe Marriages as a thing that was not in its ſelf evil, but might tend to evil, or open a door to evil, <hi>Exod.</hi> 34.12. <hi>Take heed to thy ſelf leſt thou make a Covenant with the inhabitants of the Land whither thou goeſt, leſt it be for a ſnare in the midſt of thee.</hi> See alſo verſ. 16. <hi>And thou take of their Daugh<g ref="char:EOLhyphen"/>ters unto thy Sons, and their Daughters go a whoring after their Gods, and make thy Sons go a whoring after their Gods, Deut.</hi> 7.23. Neither ſhalt thou make Marriages with them: And why? not becauſe it is a ſin or an abo<g ref="char:EOLhyphen"/>mination ſo to do, but becauſe ſhe will draw away his heart, ſhe will be a temptation to thy Son to follow her Gods. And the ſame is in <hi>Joſ.</hi> 23.12. <hi>Knew for a certain if thou cleave to this people, it will be a ſnare to thee, not a ſin in thee; an immorality in thee, but a ſnare to thee:</hi> Thy Heart may be drawn away by it; and if it be, then ſee thy doom, <hi>verſ.</hi> 16. which doth import no leſs, but that theſe Marriages might be made, and the heart yet with the Lord, though in danger to be drawn away thereby; as is plain in the Caſe of <hi>Moſes, David,</hi> and <hi>Solomon,</hi> as we ſhall ſhew in due place. So that the matter contained in theſe Texts, is no other but a part of the politick Law given to <hi>Iſrael</hi> which al<g ref="char:EOLhyphen"/>tered, and became ſtronger or weaker by occaſion and circumſtance; of which kind of Laws <hi>Iſrael</hi> had many: I ſhall only inſtance in two. The Firſt is <hi>Deut.</hi> 20.19. <hi>When thou ſhalt beſiege a City a long time in making warre
+<pb facs="tcp:38585:12"/>agaiſt it to take it, thou ſhalt not deſtroy the Trees thereof by forcing an Ax againſt them.</hi> And why? not becauſe the thing was ſinful, but becauſe thou mayeſt eat of them: Therefore thou ſhalt not cut them down, for the Tree of the field is mans Life. The Second is <hi>Deut.</hi> 22.8. <hi>When thou buildeſt a new Houſe, then thou ſhalt make a Battlement for thy Roof.</hi> And why? was it ſinful to build a Houſe without a Battlement? No ſure, not ſinful but dangerous, as the Text ſaith, <hi>That thou bring not Blood upon thine Houſe if any man fall from thence.</hi>
+               </p>
+               <p>But <hi>Secondly,</hi> This appears to be the meaning of theſe words, if you conſider, they were as well <hi>cautioned</hi> from making <hi>any other Covenant</hi> with them, as the <hi>Covenant</hi> of Marriage. See again the ſame three Texts, <hi>Exodus</hi> 34.12. <hi>Take heed to thy ſelf, leſt thou make a Covenant with the inhabitants of the Land:</hi> and in <hi>verſ.</hi> 15. <hi>Take heed to thy ſelf, leſt thou make a Covenant with the inhabi<g ref="char:EOLhyphen"/>tants of the Land.</hi> So that to hire a Houſe, or to pur<g ref="char:EOLhyphen"/>chaſe a Vineyard of a <hi>Canaanite,</hi> was as great a Breach of this Law, as to marry his Daughter. Nay, to ſpare his Life, or the Life of his Wife, Children or his Cattle, was altogether contrary to this Law, ſee <hi>Deut.</hi> 20.16, 17. which only reſpected thoſe ſeven Nations.</p>
+               <p>
+                  <hi>Thirdly,</hi> You miſtake the <hi>people</hi> as well as the <hi>thing;</hi> and conclude that <hi>Iſrael</hi> was forbid to marry with <hi>all Nations</hi> in the World: When nothing can be a greater miſtake, as you may eaſily ſee by theſe Texts, <hi>Exod.</hi> 34.12. <hi>Take heed to thy ſelf, leſt thou make a Covenant with the inhabitants of the Land whither thou goeſt.</hi> And <hi>Deut.</hi> 7.1, 2, 3. <hi>When the Lord thy God ſhall bring thee into the Land whither thou goeſt to poſſeſs, and hath caſt out ma<g ref="char:EOLhyphen"/>ny Nations before thee, the</hi> Hittites, <hi>and the</hi> Girgaſhites, <hi>and the</hi> Ammorites, <hi>and the</hi> Canaanites, <hi>and the</hi> Perizzites, <hi>and the</hi> Hivites, <hi>and the</hi> Jebuſites: <hi>ſeven Nations greater and mightier than thou. And the Lord thy God ſhall deli<g ref="char:EOLhyphen"/>ver them before thee; thou ſhalt ſmite them and utterly
+<pb facs="tcp:38585:13"/>deſtroy them; thou ſhalt make no Covenant with them, nor ſhew mercy unto them; neither ſhalt thou make marria<g ref="char:EOLhyphen"/>ges with them,</hi> &amp;c.</p>
+               <p>So that you ſee, it was them, thoſe <hi>ſeven Nations,</hi> the Inhabitants of that Land which they were to poſſeſs. And ſo you have it moſt plainly and fully expreſt in <hi>Deut.</hi> 20.16, 17. <hi>But of the Cities of theſe people, which the Lord thy God doth give thee for an inheritance, thou ſhalt ſave alive nothing that breatheth,</hi> &amp;c. And again in <hi>Joſhua</hi> 23.12. you have it as fully and particularly expreſt.</p>
+               <p>And now, pray Brother mind, tho' you put no dif<g ref="char:EOLhyphen"/>ference between one uncircumciſed people and ano<g ref="char:EOLhyphen"/>ther; yet the All-wiſe God made a great one: For theſe ſeven Nations were all to die, and to have no terms of peace: but other people might have terms of Peace, ſee <hi>Deut.</hi> 20.10, 11, 12, 13, 14, 15. A <hi>Moabite</hi> might enter into the Congregation in his <hi>Tenth Generation, chap.</hi> 22. <hi>verſ.</hi> 3. and in <hi>verſ.</hi> 7. <hi>Thou ſhalt not abhor an</hi> Edomite, <hi>for he is thy Brother: thou ſhalt not abhor an</hi> Aegyptian, <hi>becauſe thou waſt a ſtranger in his Land.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly,</hi> There was great reaſon why the <hi>Jews</hi> ſhould make no Covenant with thoſe people of the <hi>ſeven Na<g ref="char:EOLhyphen"/>tions,</hi> (and that out of <hi>State-policy</hi> as well as <hi>Religion:</hi>) For had the <hi>Jews</hi> made Covenants and Contracts, and Terms of <hi>Peace</hi> with them, and more eſpecially the Contract of Marriage; It would not only have indan<g ref="char:EOLhyphen"/>gered the <hi>Jews Apoſtacy,</hi> but hindred and prevented the Deſign of God Almighty ſo far as man could have been an Inſtrument for.</p>
+               <p>
+                  <hi>Firſt,</hi> It would have abated the Courage and Reſo<g ref="char:EOLhyphen"/>lution of the <hi>Jews,</hi> in purſuing the Conqueſt of thoſe Nations. Every Marriage would have begotten divers Covenants and Contracts contrary to the Nature of a Conqueſt, every man that had given his Daughter would have made Terms for himſelf and Friends, and every
+<pb facs="tcp:38585:13"/>Woman, for her Fathers Family. You ſee <hi>Rahab</hi> was not content to make Terms for her ſelf, but alſo for her Fathers Family, and her Kindred, <hi>Joſhua</hi> 2.22.</p>
+               <p>
+                  <hi>Secondly,</hi> Such Affinity would be a means to betray their Councels to their <hi>Enemies:</hi> Women being <hi>Artiſts</hi> at drawing out <hi>Secrets,</hi> and diſcloſing them for the hurt of their Huſbands. As you may ſee in the caſe of <hi>Sampſon;</hi> both his Wives betraying him, till at length he was betrayed into the hands of his <hi>Enemies.</hi> See <hi>Judges</hi> 14.15, 16, 17. with <hi>chap</hi> 16.</p>
+               <p>
+                  <hi>Thirdly,</hi> Such Affinity would hinder the Deſign of God, in rooting out thoſe <hi>Seven Nations,</hi> who were ſo abominable in his ſight, that God determined to <hi>deſtroy</hi> them, <hi>Levit.</hi> 18.28.20.23. <hi>Deut.</hi> 20.16, 17.</p>
+               <p>
+                  <hi>Fourthly,</hi> It would have prevented the fulfilling the <hi>Promiſe of God</hi> made to <hi>Abraham,</hi> that he would give that Land to his Seed for a Poſſeſſion, which could not ſtand with Covenants and Contracts made between them. For as long as they had been at Amity, the <hi>Ca<g ref="char:EOLhyphen"/>naanites</hi> would have been Sharers both in the <hi>Poſſeſſion</hi> and <hi>Government.</hi> So that hence you ſee, here was much reaſon why Marriage ſhould be forbid with thoſe peo<g ref="char:EOLhyphen"/>ple, and yet not with <hi>all Nations</hi> whatſoever: And that as well from rules of <hi>Policy</hi> as <hi>Religion.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly</hi> and Laſtly, touching theſe three Texts, I ſhall further ſhew you are miſtaken about the <hi>extent</hi> of the Word. For I will prove, that the <hi>Jews</hi> might marry with ſuch people of other Nations as were <hi>
+                     <g ref="char:V">Ʋ</g>ncircum<g ref="char:EOLhyphen"/>ciſed:</hi> For,</p>
+               <p>
+                  <hi>Firſt,</hi> The words of the prohibition (or caution) ex<g ref="char:EOLhyphen"/>preſſeth no other people than the <hi>Seven Nations,</hi> and they are expreſſed by <hi>Name,</hi> as hath been ſhewed alrea<g ref="char:EOLhyphen"/>dy, <hi>Deut.</hi> 7.1, 2, 3.</p>
+               <p>
+                  <hi>Secondly,</hi> It appears, from the different reſpect they were to bear to other people, the <hi>Ammonite,</hi> the <hi>Moabite,</hi> the <hi>Edomite,</hi> and <hi>Aegyptian,</hi> and all the people they conque<g ref="char:EOLhyphen"/>red;
+<pb facs="tcp:38585:14"/>as hath been ſhewed from <hi>Deut.</hi> 20.10, 11, 12, 13, 14, 15, 16. Chap. 23.3, 4, 5, 6, 7, 8.</p>
+               <p>
+                  <hi>Thirdly,</hi> It appears from the many Marriages that were made with the Uuncircumciſed, and ſome of them by men moſt eminent in the Church of <hi>Iſrael,</hi> who were never blamed for ſo doing; As you may ſee by theſe Scriptures, 1 <hi>Chron.</hi> 2.34, 35. <hi>and Sheſhan gave his daughter to Jarha his ſervant to Wife, who was an Aegyptian.</hi> And <hi>Solomon</hi> took <hi>Pharah</hi>'s Daughter in his youth, and yet lived in the favour of God and good men without re<g ref="char:EOLhyphen"/>proof, until he was Old, and fell to Idolatry. Which had that Marriage, or any other of his Marriages been ſins of that deep die (as you ſuppoſe) could he have paſſed Twenty, Thirty, or Forty Years, having ſuch guilt upon him, without ſhew of reproof? Were all the Prophets aſleep? was no <hi>Nathan</hi> then in being? Had God himſelf forgot his own Laws? Nay, his own Holi<g ref="char:EOLhyphen"/>neſs? And would he accept of the ſervice of a perſon thus defiled as <hi>Solomon?</hi> which muſt have been, in caſe theſe Marriages had been as ſinful as you eſteem them to be.</p>
+               <p>But further, <hi>David</hi> did make ſuch a Marriage with <hi>Maacah the Daughter of Talmai, King of Geſhur,</hi> 2 Sam. 3.3. And that you may know <hi>Geſhur</hi> to be no part of <hi>Iſrael,</hi> it was a City in <hi>Syria,</hi> as appears, 1 <hi>Sam.</hi> 15.8. And for <hi>Moſes,</hi> who was their great <hi>Lawgiver,</hi> it is plain he had two Wives of the ſame ſort; the firſt an <hi>Ethio<g ref="char:EOLhyphen"/>pian,</hi> the ſecond a <hi>Midianite,</hi> as you may ſee <hi>Numb.</hi> 12.1. <hi>Exod.</hi> 2.21. The latter of which was far from a Proſelyte, when ſhe ſo violently oppoſed the circumciſing of her Son, <hi>Exod.</hi> 4.25, 26. And yet you ſee how God juſti<g ref="char:EOLhyphen"/>fies <hi>Moſes</hi> againſt <hi>Aaron</hi> and <hi>Miriam,</hi> Numb. 12.4, 5, 6, 7, 8, 9.</p>
+               <p>
+                  <hi>Fourthly,</hi> The <hi>Jews</hi> were allowed to marry with the <hi>Edomites</hi> and <hi>Aegytians,</hi> Deut. 23.7, 8. <hi>Thou ſhalt not abhor an Edomite, becauſe he is thy brother: Thou ſhalt not
+<pb facs="tcp:38585:14"/>abhor an Aegyptian, becauſe thou waſt a Stranger in his Land: The Children begotten of them ſhall enter into the Congregation in their third generation.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly and laſtly,</hi> They might marry with all ſuch as they had conquered, and if ſo, then no doubt with all ſuch as they were at peace with all: That they might marry with the Captives, ſee the expreſs word of God, <hi>Deut.</hi> 21.10, 11, 12, 13. <hi>When thou goeſt forth to war againſt thine Enemies, and the Lord thy God hath delivered them into thine hand, and thou haſt taken them Captive, and ſeeſt among the Captives a beautiful Woman, and haſt a deſire un<g ref="char:EOLhyphen"/>to her, that thou mayſt have her to thy Wife; Then thou ſhalt bring her home to thine houſe, and ſhe ſhall ſhave her Head, and pair her Nailes, and put the Rayment of her Cap<g ref="char:EOLhyphen"/>tivity from off her, and ſhall remain in thine houſe, and be<g ref="char:EOLhyphen"/>wail her Father and her Mother a whole month; and after that thou ſtalt go in unto her and be her Husband, and ſhe ſhall be thy Wife.</hi>
+               </p>
+               <p>And this I hope may ſerve for an Anſwer to what you have produced out of the <hi>Old Teſtament:</hi> I ſhall now pro<g ref="char:EOLhyphen"/>ceed to ſpeak to your <hi>New Teſtament</hi> Texts in order.</p>
+               <p>And, <hi>Firſt,</hi> To that in 1 <hi>Cor.</hi> 6.18. It's to be obſer<g ref="char:EOLhyphen"/>ved in the firſt place, that the Apoſtle ſpeaks not one word of <hi>Marriage,</hi> but of <hi>Fornication;</hi> and of being joyned to, and becoming one body vvith an <hi>Harlot.</hi> Where vve are to obſerve, the Apoſtle uſeth the Word by vvay of <hi>ſimilitude,</hi> ſhewing, That as he who joyned himſelf to an <hi>Harlot,</hi> became one body with her, in the outward and common ſenſe: ſo he that joyned himſelfe with <hi>Idolaters</hi> in their Worſhip, became one with them in <hi>Idolatry;</hi> And this the Apoſtle calls <hi>Fornication,</hi> which he would have us to <hi>flee,</hi> as being of a poyſonous nature, and that which will certainly defile us.</p>
+               <p>We know that the Falſe Church is ſometimes called an <hi>Harlot,</hi> and Idolatry called <hi>Fornication.</hi> But this is no way to be applyed to ſingle perſons, for they are no
+<pb facs="tcp:38585:15"/>
+                  <hi>Harlots</hi> as they are ſingle perſons. My Wife is not at all to be accuſed for <hi>Incontinency,</hi> becauſe ſhe and I differ in Religion; nor are ſhe and I made one <hi>Spirit</hi> by any Act that relates to <hi>Marriage;</hi> and therefore I take this to be no proof at all.</p>
+               <p>But further, in caſe this Text be to be underſtood in a common ſenſe, then it no way concerns the perſons whoſe cauſe I plead: For they are perſons who are ho<g ref="char:EOLhyphen"/>neſtly married, and their Beds undefiled; and ſo are not within the compaſs of this Text: for <hi>Marriage</hi> is no where called <hi>Fornication,</hi> no, not when made with <hi>Ca<g ref="char:EOLhyphen"/>naanites,</hi> the moſt obnoxious of any people.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Yes, Brother, in <hi>Revel.</hi> 2.14. For <hi>Joſephus</hi> ſaith, <hi>That Iſrael married the Moabitiſh Women,</hi> which is that Doctrine taught by <hi>Balaam,</hi> which ſome alſo in the Church of <hi>Pergamus</hi> did maintain, and is there called <hi>Fornication.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That there was ſome in the Church of <hi>Pergamus</hi> who held the Doctrine of <hi>Balaam,</hi> is true. But that mar<g ref="char:EOLhyphen"/>rige with perſons differing in Religion was that Doctrine or <hi>Fornication,</hi> is yet to prove. For whatever <hi>Joſephus</hi> ſaith concerning the <hi>Jews</hi> marrying with the <hi>Moabites,</hi> is little to the purpoſe. But this the Scripture ſaith, <hi>Numb.</hi> 25. <hi>They committed whoredom with the Daughters of Moab.</hi> And in <hi>Revel.</hi> 2.14. it's called <hi>Fornication,</hi> which Mr. <hi>Phillips</hi> ſaith
+<note n="*" place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his new <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſh <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ds.</note> is all one thing.</p>
+               <p>Now there is no doubt but God was alwayes diſplea<g ref="char:EOLhyphen"/>ſed with ſuch <hi>Immorality,</hi> let it be committed with whom and by whom it will. And the more when ſuch ſins are common, as this was at that time in <hi>Iſrael;</hi> and not only common, but done in the face of the Sun, in oppoſition to Government and Governours. Nay, and by the Chief of the people. That as <hi>Ezra</hi> ſaith, The hand of the Princes and Rulers have been Chief in this Treſ<g ref="char:EOLhyphen"/>paſs.</p>
+               <p>
+                  <hi>Secondly,</hi> This was not an Act of <hi>Fornication</hi> alone,
+<pb facs="tcp:38585:15"/>but was accompanied with the aggravating circumſtance of <hi>Idolatry;</hi> for ſo ſaith the Text, <hi>Numb.</hi> 25. <hi>And they called the people to the Sacrifices of their Gods, and the people did eat, and bowed down to their Gods, and Iſrael joyned himſelf unto Baal-peor.</hi> Which according to <hi>Joſe<g ref="char:EOLhyphen"/>phus,</hi> was a contract made between the <hi>men</hi> of <hi>Iſrael,</hi> and the <hi>women</hi> of <hi>Moab:</hi> the Women being inſtructed not to conſent, but upon Condition that the <hi>Iſraelites</hi> ſhould do <hi>Sacrifice</hi> to their Gods: which ſeemeth to be true. And if ſo, no wonder tho' God ſhewed his ſore diſpleaſure againſt them; For let the Women have been <hi>Jews</hi> the Caſe had been the ſame; for the wife of the Boſom is to die, that ſhall <hi>intice</hi> her Husband to follow <hi>other Gods,</hi> as you may ſee <hi>Deut.</hi> 13.6, 7, 8, 9. So that it's not a Woman of ſuch a People, nor yet a <hi>Marriage</hi> thus ſo<g ref="char:EOLhyphen"/>lemnized, that would excuſe <hi>Iſrael</hi> for the ſin of Ido<g ref="char:EOLhyphen"/>latry.</p>
+               <p>
+                  <hi>Thirdly,</hi> How do you know by all this, what this Doctrine of <hi>Balaam</hi> was? It cannot be known by any thing in <hi>Numb.</hi> 25. nor in <hi>Revel.</hi> 2.14. For both theſe report only the ſin of <hi>Iſrael,</hi> and the puniſhment which enſued thereupon: which was but the effect of <hi>Baalam</hi>'s Doctrine. <hi>Balaam</hi> did not teach <hi>Iſrael</hi> one thing or other, he taught <hi>Balak;</hi> and when he was taught by <hi>Balaam,</hi> he improved it to his own advantage (as he he thought) and to the deſtruction of <hi>Iſrael.</hi> So that we are at a loſs to know what that Doctrine was, which God reproved in the <hi>Church</hi> of <hi>Pergamus,</hi> and the wiſeſt of men can but imagine; and when they have done, muſt be content to let another think as he will. For my part I have not been without my thoughts about it, and do think I am as near as any I have ſeen; and becauſe in this caſe I may find it as ſoon as a wiſer, I will alſo give you my Opinion: which is as you ſhall hear.</p>
+               <p>But <hi>Firſt,</hi> I have not read or heard of any people that are ſo <hi>barbarous,</hi> but they worſhip <hi>a God;</hi> and tho'
+<pb facs="tcp:38585:16"/>it be a <hi>Tree,</hi> yet they look upon it to be <hi>ſacred,</hi> and do <hi>fear offending</hi> of this <hi>God.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> There is none ſo <hi>barbarous</hi> but make <hi>Conſci<g ref="char:EOLhyphen"/>ence</hi> of ſome <hi>moral Duties,</hi> and fear the committing of ſome <hi>Immoralities.</hi> And this I ſuppoſe to be <hi>Balak</hi>'s Caſe.</p>
+               <p>For <hi>Balaam</hi> not being able to <hi>curſe Iſrael, Balak</hi> ſent him away without <hi>Honour, Numb.</hi> 24.11, 12. Now <hi>Balaam</hi> (as <hi>Joſephus</hi> reports) to gratifie <hi>Balak</hi> and to purchaſe Favour with <hi>Moab</hi> and <hi>Midian,</hi> he well knowing God was offended with him, and <hi>Iſrael</hi> could have no kindneſs for him, he (being now deſperate) bethought himſelf of this <hi>Stratagem,</hi> which if <hi>Balak</hi> would try, might effect his Deſign; which was the de<g ref="char:EOLhyphen"/>ſtruction of <hi>Iſrael.</hi>
+               </p>
+               <p>The <hi>Plot</hi> was, that <hi>Balak</hi> ſhould take the <hi>faireſt</hi> of their <hi>Virgins,</hi> and dreſs them richly, and ſend them to <hi>dance</hi> about the Tents of <hi>Iſrael,</hi> that he might provoke the <hi>Iſraelites,</hi> whom he knew to be great admirers of <hi>beautiful</hi> Women; but when the <hi>Iſraelites</hi> came to requeſt the <hi>enjoyment</hi> of them, they ſhould in no wiſe conſent; but upon this condition, that the <hi>Jews</hi> ſhould go with them to their <hi>Worſhip,</hi> and ſerve their <hi>Gods.</hi> Now here<g ref="char:EOLhyphen"/>at (I conceive) <hi>Balak</hi> might make ſome ſcruple, as fore<g ref="char:EOLhyphen"/>ſeeing ſome <hi>great Evil</hi> muſt be committed to accompliſh this Deſign.</p>
+               <p>As <hi>Firſt,</hi> An Act of <hi>baſe Diſſimulation,</hi> to pretend <hi>Love</hi> and <hi>Kindneſs,</hi> when the Deſign was <hi>Murder</hi> and <hi>Deſtruction.</hi> And how far this might go with a <hi>Moral Heathen,</hi> cannot be imagined.</p>
+               <p>
+                  <hi>Secondly,</hi> There muſt be the <hi>defiling</hi> of ſo many <hi>Vir<g ref="char:EOLhyphen"/>gins,</hi> which goes hard with the worſt of men, and is ab<g ref="char:EOLhyphen"/>horred of <hi>Heathens.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly, Diſſimulation</hi> in the name of their <hi>Gods</hi> whom they adored, and to whom they endeavour to <hi>proſelyte</hi> the <hi>Jews,</hi> not out of <hi>Honour</hi> to their <hi>Gods,</hi> but to accompliſh a deſign of their own.</p>
+               <pb facs="tcp:38585:16"/>
+               <p>
+                  <hi>Fourthly,</hi> The <hi>Jews</hi> muſt be thought to be <hi>vile Hypo<g ref="char:EOLhyphen"/>crites,</hi> that ſhall be drawn upon ſuch Terms to ſerve their <hi>Gods,</hi> that they might obtain the ſatisfying of their <hi>baſe Luſts;</hi> and their <hi>Offering</hi> was a profaning the name of thoſe <hi>Gods.</hi>
+               </p>
+               <p>Now <hi>Balak</hi> might fear (upon the apprehenſion of all theſe <hi>Evils</hi>) that his <hi>Gods</hi> would be offended; For were it his own Caſe, he would not accept the Service of one of his own Princes, that ſhould be accompanied with ſuch a heap of <hi>monſtrous Villanies,</hi> ſo reproachful to him, and diſhonourable to his name.</p>
+               <p>Now to ſatisfie <hi>Balak</hi> in this <hi>Scruple, Balaam</hi> applieth himſelf, and layeth down a <hi>Propoſition,</hi> which if he and his People did believe, then they would not fear to fol<g ref="char:EOLhyphen"/>low his <hi>Advice.</hi> And therefore telleth <hi>Balak,</hi> that all this <hi>fear</hi> of his did ariſe from his <hi>want of Knowledge</hi> in the <hi>Divine Myſieries,</hi> for all this was both <hi>lawful, lauda<g ref="char:EOLhyphen"/>ble</hi> and <hi>juſtifiable</hi> (at ſuch a time and in ſuch caſes as the preſent Circumſtances had brought him and his people into) for men to commit any Evil, and break the Laws both of <hi>Nature</hi> and the <hi>Gods,</hi> without any Offence to them, when it was to a good end, either for the procu<g ref="char:EOLhyphen"/>ring of a <hi>greater Good,</hi> or avoiding a <hi>greater Evil.</hi> And thou <hi>Balak</hi> needeſt not fear to do what <hi>I adviſe thee</hi> unto.</p>
+               <p>Thy <hi>Caſe</hi> requires ſomething to be done that is <hi>emi<g ref="char:EOLhyphen"/>nent;</hi> I am a <hi>Prophet,</hi> and thou knoweſt my Converſa<g ref="char:EOLhyphen"/>tion is with the <hi>Gods,</hi> and I know they do allow of this <hi>Principle.</hi> The God of <hi>Iſrael</hi> doth allow of it in his <hi>People,</hi> and thy Gods will allow of it in <hi>thee.</hi> Thy Caſe is <hi>dangerous,</hi> and thou haſt <hi>reaſons</hi> ſufficient to <hi>juſtifie</hi> thy proceedings in this matter. As,</p>
+               <p>
+                  <hi>Firſt,</hi> Thy own <hi>preſervation,</hi> and the <hi>preſervation</hi> of thy <hi>Family,</hi> which is motive enough to provoke a man to wound his own <hi>Conſcience,</hi> that he might prevent ſuch a <hi>Miſchief.</hi>
+               </p>
+               <pb facs="tcp:38585:17"/>
+               <p>
+                  <hi>Secondly,</hi> The <hi>preſervation</hi> of thy <hi>People</hi> and <hi>Country</hi> which will be made a <hi>prey,</hi> their Countrey taken from them, themſelves and their Children made <hi>Captives</hi> at the leaſt. For if theſe <hi>Iſraelites</hi> prevail, thy whole Peo<g ref="char:EOLhyphen"/>ple will be their <hi>Slaves</hi> and <hi>Vaſſals.</hi> And therefore it behooves thee and thy People to conſider what Miſchief hangs over your Heads, and not to ſcruple at the <hi>means</hi> that may prevent it.</p>
+               <p>
+                  <hi>Thirdly,</hi> Your <hi>Religion</hi> will be changed, your <hi>Gods diſhonoured</hi> and <hi>blaſphemed,</hi> your <hi>Groves</hi> will be cut up, and your <hi>Altars</hi> pulled down; which is ſo great a Miſ<g ref="char:EOLhyphen"/>chief that nothing can equal it. It would be your <hi>Sin,</hi> nay your <hi>unpardonable Sin,</hi> if you do not your utmoſt to prevent this. And tho' the way I have preſcribed is an evil way, and may not be allowed in <hi>Common Ca<g ref="char:EOLhyphen"/>ſes,</hi> yet when it may prevent a greater miſchief, or pro<g ref="char:EOLhyphen"/>cure a greater good, then it's not only <hi>lawful,</hi> but a <hi>Du<g ref="char:EOLhyphen"/>ty.</hi> And therefore let thy People be inſtructed in <hi>this Principle,</hi> that they may act their part with <hi>boldneſs;</hi> for you may expect a <hi>bleſſing</hi> for it.</p>
+               <p>Beſides, it's very likely to become a Snare to <hi>Iſrael:</hi> for if they <hi>cloſe</hi> with the <hi>Temptation,</hi> and <hi>worſhip</hi> your Gods, their God will be offended at them; becauſe in this they neither avoid an <hi>Evil,</hi> nor procure a <hi>Good:</hi> nor have any ſuch thing in their Eye, but only the ſa<g ref="char:EOLhyphen"/>tisfying a <hi>baſe</hi> and <hi>carnal</hi> Luſt.</p>
+               <p>Now this I take to be the <hi>Doctrine of Balaam,</hi> which ſome in the Church of <hi>Pergamus</hi> held, and which (as is ſaid) ſome in the <hi>Romiſh Church</hi> hold at this day; which is a Doctrine ſo hateful to God, and deſtructive to Mankind, that it makes man's Life and God's Glory a Tennant at will to the Conceit of ſinful Men; and no doubt it is moſt abominable to the Divine Majeſty, and ought to be avoided.</p>
+               <p>But whether this <hi>Conceit</hi> of mine be true or no, yet I am ſure nothing in thoſe two Texts, <hi>Numb.</hi> 25. nor
+<pb facs="tcp:38585:17"/>
+                  <hi>Revel.</hi> 2.14. doth prove thoſe Marriages <hi>unlawful</hi> which I contend for.</p>
+               <p>For, not to tell you the difference here between theſe people, was in matters of <hi>Morality,</hi> who was the true <hi>God?</hi> And not in <hi>Inſtitutes, How</hi> the True God was to be <hi>worſhipped?</hi> Of which you ought to take notice.</p>
+               <p>I will ſhew you for all this, that <hi>Iſrael</hi> might marry both with <hi>Moab</hi> and <hi>Ammon,</hi> and that the <hi>Children</hi> be<g ref="char:EOLhyphen"/>got of them, might in time be admitted into the <hi>Con<g ref="char:EOLhyphen"/>gregation.</hi> And that both theſe are true, ſee <hi>Ruth.</hi> 1.4. <hi>Deut.</hi> 23.3. And the reaſon is rendred why they might not be admitted <hi>ſooner</hi> in v. 4.</p>
+               <p>As to 2 <hi>Cor.</hi> 6.14. <hi>Be not unequally yoked together, Be<g ref="char:EOLhyphen"/>lievers with <g ref="char:V">Ʋ</g>nbelievers.</hi> I cannot but wonder you ſhould urge it; for the Caſe is plain, it ſpeaks of <hi>Worſhip</hi> and a <hi>Spiritual relation,</hi> and that appears from many expreſſi<g ref="char:EOLhyphen"/>ons which ths Apoſtle uſeth. As, <hi>What fellowſhiphath righteouſneſs with unrighteouſneſs? What communion hath light with darkneſs?</hi> or, <hi>what concord hath Chriſt with Be<g ref="char:EOLhyphen"/>lial? And what part hath he that believeth, with an Infidel? And what agreement hath the Temple of God with Idols? For ye are the Temple of the living God, as God hath ſaid, I will dwell in them, and walk in them, and they ſhall be my people, and I will be their God.</hi>
+               </p>
+               <p>Now it's plain this reſpects the Church, and their Aſ<g ref="char:EOLhyphen"/>ſembling, and having Communion one with another, and with God himſelf; who can admit of nothing that is Carnal, and ſavours of the fleſh. But what ſignifies this to a fleſhly and carnal relation?</p>
+               <p>For tho' I may not go to the <hi>Idols Temple,</hi> and eat their Sacrifices with a Pagan, nor ſuffer him to ſit down with me at the <hi>Lords Table;</hi> yet I may joyn Partners with him in Trade and Buſineſs. And in this kind of Relation we may have fellowſhip, concord and agreement, tho' not about Religion. And it's plain, that where thoſe men
+<pb facs="tcp:38585:18"/>and Women have <hi>married</hi> who have thus differr'd in matters of Religion. They have had notwithſtanding the ſame agreement, concord and fellowſhip that others do enjoy, both as in relation to the Marriage-bed, and other worldly Affairs, and ſome times more, to their content and profit. And therefore it cannot be this Re<g ref="char:EOLhyphen"/>lation that is reprehended in this Chapter.</p>
+               <p>And as to 1 <hi>Cor.</hi> 7.39. <hi>The wiſe is bound by the Law, as long as her husband liveth, but if her husband be dead, ſhe is at liberty to be married to whom ſhe will, only in the Lord.</hi>
+               </p>
+               <p>I might put many queſtions to you about the intent of theſe Words. As to enquire <hi>who</hi> may be ſaid to be in the Lord? Whether it reſpect a being in the <hi>Faith,</hi> (a Baptized Perſon?) Or, whether a being in the Lord re<g ref="char:EOLhyphen"/>ſpects not a perſon's being <hi>allowed</hi> of by the Lord? and reſpects not the Line of <hi>Conſanguinity?</hi> And then to be <hi>in the Lord</hi> in that ſenſe, is to be one whoſe Marriage is approved of by the Lord, he not being too near of kin.</p>
+               <p>And laſtly, whatſoever it is to be in the Lord, yet whether men are bound by the ſame Law, ſeeing the Apoſtles ſpeaks only of the Women? And although ma<g ref="char:EOLhyphen"/>ny times when Men are mentioned the Women are in<g ref="char:EOLhyphen"/>cluded, yet I know not where the Women being men<g ref="char:EOLhyphen"/>tioned includes the Men. But theſe and more I will o<g ref="char:EOLhyphen"/>mit and come to the Words. <hi>The wiſe is bound by the Law, as long as her husband liveth; but if her husband be dead, ſhe is at liberty to be married to whom ſhe will, only in the Lord.</hi> The whole ſtreſs lies in the laſt Clauſe; now ſuppoſe I allow you, that to be <hi>rightly baptized,</hi> is to be <hi>in the Lord,</hi> yet I deny theſe words to be a Command, or the recital of a Command.</p>
+               <p>
+                  <hi>Firſt,</hi> becauſe there never was any ſuch Command, but reſpected Men as well as Women. All the Texts in the Old Teſtament run thus, <hi>Thou ſhalt not give thy Daughter to his Son, nor take His Daughter to thy Son.</hi> So that by thoſe Precepts, Men were bound as
+<pb facs="tcp:38585:18"/>well as Women, which is not expreſſed here.</p>
+               <p>
+                  <hi>Secondly,</hi> Virgins as well as Widows. But this is ſome<g ref="char:EOLhyphen"/>thing belonging to Widows, and is here put down for them by way of advice.</p>
+               <p>
+                  <hi>Thirdly,</hi> If ever there was any ſuch Law that a Wid<g ref="char:EOLhyphen"/>dow might marry with none but a Baptized perſon, and one in the Church: Then it's either a Law given by way of Precept, and is ſomewhere to be found amongſt Gods Commands, or elſe ſhe is bound to marry in the Lord by the Law of Prudence. If you ſay ſhe is bound by the former of theſe Laws, then I pray ſhew <hi>when</hi> it was given, and by <hi>whom,</hi> and <hi>where</hi> the Record is to be found, that we may have recourſe thither for our fur<g ref="char:EOLhyphen"/>ther ſatisfaction? And if you ſay ſhe is bound by the latter of theſe, <hi>viz.</hi> by the <hi>Law of Prudence,</hi> then our Diſpute is at an end, and I will ſay with you, that it's prudently done ſo to marry. But what if ſhe be not ſo wiſe? How ſhall you and I help it? more than if your Wife or mine ſhall liſten their Servants, and here them<g ref="char:EOLhyphen"/>ſelves reproached without cauſe, contrary to the advice of the Wiſe man in <hi>Eccleſ.</hi> 7.21. <hi>Alſo take no heed to all words that are ſpoken, leſt thou hear thy ſervant curſe thee:</hi> and by this means they be put into a paſſion, and miſ<g ref="char:EOLhyphen"/>behave themſelves. Can you deal with them for heark<g ref="char:EOLhyphen"/>ening to their ſervants diſcourſe? no ſure, though con<g ref="char:EOLhyphen"/>trary to advice: but for their paſſion and miſbehaviour you may, though the former was the leading cauſe there<g ref="char:EOLhyphen"/>of. And again, the Wiſe man adviſeth men againſt ſure<g ref="char:EOLhyphen"/>tyſhip, <hi>Prov.</hi> 22.26. <hi>Be not thou one of them that ſtrike hands, or of them that are Sureties for Debts:</hi> ſhewing the danger in <hi>verſ.</hi> 27. &amp; <hi>Chap.</hi> 6.1. &amp; <hi>Chap.</hi> 11.15. Yet if you or I contrary to this advice ſhould become bound for another man, and by that means ſhould be impove<g ref="char:EOLhyphen"/>riſhed and made miſerable and not able to ſupport our ſelves and Families; yet who ſhall deal with us for our neglecting this advice, and bringing trouble upon our
+<pb facs="tcp:38585:19"/>own heads. And you may take notice, that the whole of this Chapter is Advice and Information, how to behave themſelves in a time of Difficulty, occaſioned by a queſtion concerning Marriage; which by the anſwer of the A<g ref="char:EOLhyphen"/>poſtle was not (as I conceive) about the lawfulneſs of Marriage: But it was,</p>
+               <p>
+                  <hi>Firſt,</hi> About the <hi>expediency</hi> of it in ſuch a <hi>time</hi> as that was, in which Perſecution was ſo great, (or like ſudden<g ref="char:EOLhyphen"/>ly ſo to be) <hi>That they that had Wives ſhould be as they that had none;</hi> that is, they ſhould be unſetled in the World, and could promiſe themſelves as little enjoyment of Wife or Children as he that had none at all. Verſ. 29. <hi>And they that bought, as though they poſſed not.</hi> For they could not reaſonably think to live in the enjoyment of their Poſſeſſions: <hi>For the faſhion of this World paſſeth away,</hi> verſ. 30.32. Now the Caſe being ſuch, it became a Queſtion, <hi>Whether Marriage was allowed?</hi> And it may be ſome might not think it lawful, as ſavouring of the fleſh. Others perhaps might think it ſinful to beget Iſſue and to be taken from them, leaving a Woman with Child, or Children, to the mercy of Pagan Tyrants, to be brought up in their Idolatries. And others (who were the more moderate among them,) all this conſidered, might think Marriage very <hi>unadviſable</hi> in any Member whatſoever.</p>
+               <p>Now to this the Apoſtle gives anſwer, <hi>verſ.</hi> 1. <hi>That it's good for a man not to touch a Woman.</hi> Which anſwer, if you take it in any other ſenſe than hath been delivered, is altogether contrary to what God declared, <hi>Gen.</hi> 2.18. <hi>It's not good the man ſhould be alone.</hi> And altogether con<g ref="char:EOLhyphen"/>trary to the <hi>Dictates</hi> of <hi>Nature,</hi> and to the <hi>common con<g ref="char:EOLhyphen"/>ſent</hi> of mankind, and to your own <hi>Experience</hi> and <hi>Opini<g ref="char:EOLhyphen"/>on</hi> too. Otherwiſe, why do you marry your Sons and Daughters with ſuch ſpeed, if you believe it beſt for them to be alone. So that it's plain the Apoſtles Anſwer reſpects the time, and not <hi>Marriage</hi> it ſelf.</p>
+               <p>Yet, <hi>Nevertheleſs to avoid Fornication, let every man
+<pb facs="tcp:38585:19"/>have his own Wife, and every Woman her own Husband.</hi> Therefore, tho' the time be ſo dangerous (as you con<g ref="char:EOLhyphen"/>ceive) and that it's better and more <hi>adviſable</hi> to live ſingle, becauſe of the danger that may enſue, and the Bondage that Marriage may bring you into, yet ſuffer not your ſelves to be tempted, nor live in diſcontent by following my Advice, for there is no reaſon you ſhould do ſo: For God hath allowed men to marry, and <hi>Mar<g ref="char:EOLhyphen"/>riage</hi> is yet both <hi>lawful</hi> and <hi>commendable.</hi> And there<g ref="char:EOLhyphen"/>fore whoſoever hath not the gift of Continency, but are deſirous to poſſeſs thoſe lawful Enjoyments, let them take hold of that liberty which God hath allowed, and which is much better for them who cannot contain. See <hi>ver.</hi> 8, 9. which plainly ſheweth, that all this and much more was but <hi>Counſel and Advice,</hi> what to do, and how to demean themſelves in that difficult time; that when Perſecution came upon them they might have no Clogs nor Weights upon them, but to be <hi>without carefulneſs,</hi> verſ. 32.</p>
+               <p>And having thus given his Judgment and Advice, he now in this 39 <hi>ver.</hi> comes to ſpeak of the Wife, that ſhe was not at liberty to leave or forſake her Huſband, let what would befal her, for the Goſpels ſake; but was bound by the Law of Marriage to live and abide with him as long as he lived; <hi>but when her Husband was dead</hi> ſhe was free from that Tie or Obligation, <hi>and at liberty, to be married to another man,</hi> Rom. 7.3. or at liberty to take her own liking, or marry <hi>whom ſhe pleaſed;</hi> but yet if ſhe would take his <hi>Advice,</hi> he thought <hi>it was bet<g ref="char:EOLhyphen"/>ter to live unmarried,</hi> ver. 8. <hi>But for the unmarried and Widdows, it's good for them if they abide even as I; but if they cannot contain, let them marry:</hi> For they are not bound to live Widdows. But notwithſtanding, tho' the Goſpel doth ſo far comply with Nature, as to admit of a ſecond Huſband; nay, God hath not laid any reſtraint upon them, but that they may marry if they will, and
+<pb facs="tcp:38585:20"/>with whom they will; yet let them be wary and take Advice, there is more occaſion than ordinary for it; let them therefore marry in the Lord: (a Brother, one that may not be a <hi>Snare</hi> to her, nor a <hi>Diſcouragement</hi>) for when ſhe is once married again, ſhe is then bound by the ſame Law ſhe was before. And therefore if ſhe meet with one oppoſite to her, her Burthen will be great, and few will be ſo good natur'd as to pity her. There<g ref="char:EOLhyphen"/>fore my <hi>Counſel</hi> and <hi>Advice</hi> is, that ſhe marry <hi>in the Lord,</hi> i. e. <hi>in the Faith.</hi>
+               </p>
+               <p>That this is the ſum of what is here intended, ſeems to appear from the following <hi>Verſe,</hi> where the Apoſtle ſaith, <hi>But ſhe is happier if ſhe ſo abide after my Judgment, and I think I have the Spirit of God:</hi> Which methinks makes the Caſe plain, that the Apoſtle is not here ſpeaking of <hi>Laws and Precepts;</hi> but is giving <hi>Advice</hi> and <hi>Counſel,</hi> and that more particularly for that time, and upon that occaſion: The time being <hi>dangerous,</hi> and the perſecu<g ref="char:EOLhyphen"/>tion ſharp and ſevere.</p>
+               <p>For if otherwiſe, then the Advice of the Apoſtle a<g ref="char:EOLhyphen"/>bout Marriage (in the main) contradicteth the whole Deſign of making Womankind: For God created them for that end; and thought it, nay, knew it, nay, ſaid it, that Marriage was beſt for Man, <hi>Gen.</hi> 2.18. And the A<g ref="char:EOLhyphen"/>poſtle alſo enjoyns that they, to wit, the Believers ſhould <hi>not defraud each other,</hi> ver. 5. and in 1 <hi>Tim.</hi> 5.14. <hi>I will therefore that the younger Widdows marry and bear Children.</hi> For tho' it might be good upon ſome account, yet it's not ſafe, for <hi>ſome have already turned aſide after Satan:</hi> And it's a ready way to give occaſion to the <hi>Ad<g ref="char:EOLhyphen"/>verſary</hi> to ſpeak reproachfully.</p>
+               <p>And thus in my Judgement, it appears plain, that what is here ſaid, is nothing more than the good Advice of a good Man; which if we take we do well, and are to be commended, but if we take it not, we are not to be condemned or reproved. And that hitherto here is no
+<pb facs="tcp:38585:20"/>proof of the Propoſition: <hi>That different perſwaſions in the matter of Inſtitutions, makes a contract of Marriage ſinful.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>My third Demonſtration, is the ſevere <hi>Puniſhment</hi> God hath inflicted upon ſuch as have ſo married; which you ſhall ſee <hi>Numb.</hi> 25.4. <hi>And the Lord ſaid unto Moſes, take all the Heads of the people and hang them up before the Sun.</hi> Now the offence committed was <hi>marrying with the Moabites,</hi> as <hi>Joſephus</hi> reports.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I have ſhewed before; the Scriptures ſaith, <hi>They committed whoredom with the Daughters of Moab.</hi> Which Word is never uſed where Marriage is intended: and not only ſo, but they alſo followed the <hi>Gods of Moab,</hi> verſ. 4. which is more apparent from the words of <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> to the <hi>Elders</hi> of <hi>Iſrael. Slay ye every one his man that were joyned unto Baal-peor.</hi> Not thoſe that were <hi>married</hi> to <hi>Moabites,</hi> but <hi>joyned</hi> to <hi>Baal-peor.</hi> This was the <hi>ſin,</hi> the <hi>crying ſin,</hi> at which God was ſo <hi>ſorely diſpleaſed.</hi> And I have ſhewed you already, that if the Wife of the Bo<g ref="char:EOLhyphen"/>ſom entice her Husband, ſhe muſt die, <hi>Deut.</hi> 13.6, 7, 8, 9. And alſo I have ſhewed you, <hi>Iſrael</hi> might marry with the <hi>Moabites, Ammonites, Edomites,</hi> and <hi>Aegyptians,</hi> Deut. 23. but might not follow their Gods.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>In <hi>Judges</hi> 3. its ſaid, <hi>And the children of Iſrael dwelt among the Canaanites, Hittites, Ammonites, Perizzites, Hi<g ref="char:EOLhyphen"/>vites, and Jebuſites; and they took their daughters to be their wives, and gave their daughters to their ſons.</hi> And the Lord was diſpleaſed at it: and you may ſee in Verſ. 8. <hi>The an<g ref="char:EOLhyphen"/>ger of the Lord waxed hot againſt Iſrael, and he ſold them into the hand of the King of Meſopotamia eight years.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But you forget the laſt clauſe of the ſixth verſe, <hi>And ſerved their Gods.</hi> Verſ. 7. <hi>And the children of Iſrael forgot the Lord their God, and ſerved Balaam and the groves, and therefore the anger of the Lord was kindled againſt them.</hi> And for this the Lord ſold them unto the King of <hi>Meſo<g ref="char:EOLhyphen"/>potamia</hi> eight years.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>In 1 Kings 11.11. <hi>Wherefore the Lord ſaid unto So<g ref="char:EOLhyphen"/>lomon,
+<pb facs="tcp:38585:21"/>foraſmuch as this is done of thee, and thou haſt not kept my Covenant, and my Statutes which I have commanded thee, I will ſurely rend the Kingdom from thee, and will give it to thy ſervant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That the Lord did threaten <hi>Solomon</hi> becauſe of his Marriages, doth not appear in this Text, but for his <hi>Ido<g ref="char:EOLhyphen"/>latry.</hi> For I have obſerved to you before, that all the time he kept himſelf from <hi>Idolatry</hi> he was unreproved, tho' he had married <hi>Pharaohs</hi> Daughter many years be<g ref="char:EOLhyphen"/>fore: and (it is to be conceived) many, if not all the reſt of his Wives, ſome years before he fell to <hi>Idolatry.</hi> For the Text faith, <hi>verſ.</hi> 4. <hi>When Solomon was old, his Wives turned away his heart after other Gods: and his heart was not perfect, as was the heart of his father David. So<g ref="char:EOLhyphen"/>lomon went after Aſhtoreth the goddeſs of the Zidonians, and after Milcom the abomination of the Ammonites.</hi> Verſ. 7. <hi>Then did Solomon build an high place for Chemoſh the abo<g ref="char:EOLhyphen"/>mination of Moah, in the hill that is before Jeruſalem; and for Molech the abomination of the children of Ammon. And likewiſe did he for all his ſtrange wives, which burnt incenſe and ſacrificed unto their Gods.</hi> Verſ. 9. <hi>And the Lord was angry with Solomon, becauſe his heart was turned from the Lord God of Iſrael, which had appeared unto him twice, and had commanded him concerning this thing, that he ſhould not go after other Gods, but he kept not that which the Lord commanded.</hi>
+               </p>
+               <p>Now it's manifeſt, <hi>Solomon</hi> was ſo far from being pu<g ref="char:EOLhyphen"/>niſhed for marrying theſe Women, that he was not ſo much as reproved for it, nor warned about it as his <hi>evil:</hi> But the ſin for which the Lord puniſhed him (in his Son) by rending away his Kingdom, was his great and many <hi>Idolatries.</hi> His forſaking God and worſhipping Idols. So that this place affords nothing to prove the Propoſition.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>In <hi>Ezra</hi> 9.2. We find the the Treſpaſs of taking ſtrange Wives complained of as their ſin. And in Chap. 10.3. they agree to put them away, and ſuch as were
+<pb facs="tcp:38585:21"/>born of them. And in verſ. 7. <hi>They made Peoclamation throughout Judah and Jeruſalem, unto all the children of the Captivity, that they ſhould gather themſelves unto Jeruſalem; And that whoſoever would not come within three dayes, ſhould have all his ſubſtance forfeited, and himſelf ſeparated from the Congregation.</hi> And in <hi>Nehem.</hi> 13.23. we find, <hi>There, was thoſe that had taken Wives of Aſhdod, Ammon, and Moab. And their children ſpake half in the Speech of Aſhdod, and could not ſpeak in the Jews Language. And Nehemiah contended with them, and curſed them, and plucked off their hair, and made them ſwear by God, ſaying, you ſhall not give your daughters unto their ſons, nor take their daughters unto your ſons, nor for your ſelves.</hi> Thus ſtrict you ſee they were againſt this Evil.</p>
+               <p>But beſides, this matter is further explained in <hi>Ezra.</hi> 9.10, 11, 12. <hi>And now, O Lord our God, what ſhall we ſay after all this? for we have forſaken thy Commandments which thou haſt commanded us by thy ſervants the Prophets, ſaying, The Land whither you go to poſſeſs it, is an unclean Land, with the filthineſs of the people of the Land, with their abominations, which have filled it from one end to the other with their uncleanneſs. Now therefore give not your daughters unto their ſons, nor ſeek their peace, nor their wealth for ever, &amp;c.</hi> From all which I collect three things.</p>
+               <p>
+                  <hi>Firſt.</hi> The <hi>ſin</hi> was very great.</p>
+               <p>
+                  <hi>Secondly,</hi> Contrary to Gods <hi>command,</hi> which you ſaid was but cautionary.</p>
+               <p>
+                  <hi>Thirdly,</hi> That their marrying with <hi>Aegyptians, Moa<g ref="char:EOLhyphen"/>bites,</hi> and <hi>Amorites</hi> was as <hi>ſinful</hi> as with any of the other <hi>Seven Nations;</hi> which (I think) doth fully prove the Pro<g ref="char:EOLhyphen"/>poſition.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>To this I ſhall anſwer, beginning with the laſt firſt: that mention is made of their <hi>marrying</hi> with <hi>Moab,</hi> and <hi>Ammon,</hi> and <hi>Aegypt,</hi> is true. But that this is acknow<g ref="char:EOLhyphen"/>ledged as their <hi>ſin</hi> doth not appear, but much of the con<g ref="char:EOLhyphen"/>trary. For, firſt in <hi>Neh.</hi> 13.23. mention is made of <hi>Jews</hi>
+                  <pb facs="tcp:38585:22"/>that married wives of <hi>Aſhdod, Moab</hi> and <hi>Ammon.</hi> But what then.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>He contended with them; and curſed them, and ſmote cer<g ref="char:EOLhyphen"/>tain of them, and plucked of their hair, and made them ſwear by God, ſaying, You ſhall not give your daughters to their ſons, nor take their daughters unto your ſons, nor for your ſeives,</hi> verſ. 25.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That he contended with <hi>ſome body</hi> is true; But with whom did he contend? It was with <hi>thoſe</hi> that had married Wives of <hi>Aſhdod,</hi> for ſo ſaith the Text, <hi>verſ.</hi> 24. <hi>And their children ſpake half in the Speech of Aſhdod, and could not ſpeak in the Jews Language. And I contended with them.</hi> Them, whoſe Children ſpake in the Lan<g ref="char:EOLhyphen"/>guage of <hi>Aſhdod.</hi> Now <hi>Aſhdod</hi> was part of the <hi>Phili<g ref="char:EOLhyphen"/>ſtines,</hi> and of the Sons of <hi>Anak.</hi> See <hi>Joſ.</hi> 11.22. 1 <hi>Sam.</hi> 5.1, 2, 3. And although in <hi>Ezra</hi> 9.1. you have an account of <hi>Marriages</hi> made with <hi>Moab, Ammon,</hi> and <hi>Aegypt;</hi> yet when you find <hi>Ezra</hi> making acknowledgment of their <hi>ſin,</hi> you then find him limit the complaint to the <hi>ſeven Nations</hi> in the 10, 11, 12. verſes. <hi>And now, O Lord our God, what ſhall we ſay after this? for we have forſaken thy Commandments, which thou haſt commanded by thy ſervants the Prophets, ſaying, The Land whither ye go to poſſeſs, is an unclean Land, with the filthineſs of the people of the Land, with their abominations, and have filled it from one end to another, with their uncleanneſs.</hi>
+               </p>
+               <p>Now pray mind <hi>who</hi> thoſe people were, not <hi>Moab, Ammon</hi> and <hi>Aegypt,</hi> they were not the people they were forbid to marry withall, by the mouth of the Prophets, but the contrary, as hath been ſhewed from <hi>Deut.</hi> 23.1, 2, 3, 4, 5, 6, 7, 8. Nor were they the people whoſe Land they were to poſſeſs. <hi>Deut.</hi> 7.1. Chap. 20.17. ſo that it appears your firſt Objection is grounded upon a miſ<g ref="char:EOLhyphen"/>take.</p>
+               <p>
+                  <hi>Secondly,</hi> You urge, it's contrary to Gods Command, which is acknowledged. But yet by Command here we
+<pb facs="tcp:38585:22"/>are to underſtand ſuch Commands as are prudential, as hath been ſaid before. And that its ſo to be underſtood, both in this of <hi>Ezra,</hi> and that of <hi>Nehemiah</hi> is plain from the words, <hi>Ezra</hi> 9.12. You have the Reaſon of the Law given in this Caſe, as well as the Law it ſelf. <hi>Now therefore give not your daughters to their ſons, neither take their daughters to your ſons, nor ſeek their peace or wealth for ever.</hi> And why? <hi>That ye may be ſtrong, and cat the good of the Land, and leave it for an inheritance to your children for ever.</hi> It was not their <hi>places</hi> in the <hi>Congrega<g ref="char:EOLhyphen"/>tion,</hi> nor their <hi>names</hi> in the <hi>Book of Life</hi> that was in <hi>dan<g ref="char:EOLhyphen"/>ger,</hi> if they broke this <hi>Command:</hi> But their poſſeſſion of the <hi>Land,</hi> and inheritance of their Children. To which agrees <hi>Joſ.</hi> 23.12, 13. And in <hi>Nehem.</hi> 13. When he had made them ſwear, <hi>They ſhould not give their daugh<g ref="char:EOLhyphen"/>ters to their ſons, nor take their daughters to their ſons, nor for themſelves.</hi> The reaſon follows in the 26th <hi>Verſe. So<g ref="char:EOLhyphen"/>lomon</hi> who was a wiſe King, yet <hi>him did Outlandiſh Wo<g ref="char:EOLhyphen"/>men cauſe to ſin.</hi> So that the thing is, the avoiding the oc<g ref="char:EOLhyphen"/>caſion of temptation, which is here endeavoured after.</p>
+               <p>
+                  <hi>Thirdly,</hi> As to the greatneſs of their ſin, It did not lie in their Marriages, but in their <hi>Idolatry.</hi> For they did not only marry with <hi>Aſhdod,</hi> but brought up their Children in the Language of <hi>Aſhdod:</hi> which we have reaſon to believe, was to fit them for the Service of <hi>Aſhdod.</hi> And in <hi>Ezra</hi> 9.1. we find, That they had not only married Wives of Strangers, but done after their Abominations. This makes the Wound wide, and want a Plaiſter. And when they enquire how this came about, and find they were beguiled and enticed by their Wives, they then re<g ref="char:EOLhyphen"/>ſolve to ſeperate then, who might otherwiſe never have been moleſted, had not <hi>Idolatry</hi> been the cauſe there<g ref="char:EOLhyphen"/>of.</p>
+               <p>But again, this was a prevailing evil which did endan<g ref="char:EOLhyphen"/>ger their State, which at that time was very feeble: for <hi>many</hi> had done it, <hi>verſ.</hi> 13. yea, <hi>many</hi> leading men. The
+<pb facs="tcp:38585:23"/>
+                  <hi>Princes</hi> and <hi>Rulers,</hi> verſ. 2. And <hi>many</hi> of the <hi>Prieſts,</hi> Chap. 10.18. Now when an <hi>Evil,</hi> nay, that which look<g ref="char:EOLhyphen"/>ed but like an evil, came ſo much into faſhion, it was time to take ſome ſpeedy courſe to ſuppreſs it, as we ſee they did; though had it been ſeperated from its evil conſequences might well have been born.</p>
+               <p>But laſtly, Neither this nor any other of your Demon<g ref="char:EOLhyphen"/>ſtrations, do at all prove the Propoſition. You re<g ref="char:EOLhyphen"/>member the Queſtion is, <hi>Whether a Contract of Marriage made between two perſons of different Perſwaſions about Inſtitutions in matters of Religion, being performed and con<g ref="char:EOLhyphen"/>tinued in, be lawful or unlawful?</hi>
+               </p>
+               <p>Now, all the Inſtances you have given, where Mar<g ref="char:EOLhyphen"/>riage is forbid, or pretended to be forbid, the <hi>difference</hi> is about the <hi>moral</hi> part of <hi>Religion.</hi> Either the perſons believed in <hi>falſe</hi> Gods, and had no knowledge of the <hi>true</hi> God, or elſe, if they did own the true God in any ſenſe, yet they owned other Gods beſides him. As <hi>Ba<g ref="char:EOLhyphen"/>lak</hi> offered Bullocks and Rams once and again to the <hi>true God;</hi> but yet did not renounce <hi>Chemoſh</hi> their own God whom they had adored.</p>
+               <p>And this is the caſe, in all thoſe places which you have quoted, both in the <hi>Old</hi> and <hi>New Teſtament;</hi> both where the thing is <hi>forbidden,</hi> and where the <hi>puniſhment</hi> is alſo mentioned; which, if you pleaſe to view once more at your leiſure, you will find in <hi>Exod.</hi> 34. <hi>Deut.</hi> 7. <hi>chap.</hi> 20. <hi>Joſhua</hi> 23. <hi>Judges</hi> 3. 1 <hi>Kings</hi> 11. <hi>Ezra</hi> 9. <hi>Nehem.</hi> 13. And thoſe in the <hi>New Teſtament</hi> have the ſame dif<g ref="char:EOLhyphen"/>ference, only with this Addition; The <hi>Jews</hi> and <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> differed about our Bleſſed <hi>Lord and Saviour,</hi> which is none of our <hi>differences</hi> at this day, ours not being about <hi>God</hi> and <hi>Chriſt,</hi> but about <hi>Inſtitutions;</hi> and not about <hi>Inſtitutions</hi> themſelves, but about the <hi>Modes</hi> of <hi>Inſtitutions,</hi> which ſurely cannot make us unfit to en<g ref="char:EOLhyphen"/>joy civil Society one with another.</p>
+               <p>There is none of you maketh this <hi>Doctrine</hi> an <hi>Article</hi>
+                  <pb facs="tcp:38585:23"/>of <hi>Faith</hi> to receive perſons into the <hi>Church:</hi> And why then ſhould it be an <hi>Article</hi> to put them out, when du<g ref="char:EOLhyphen"/>ly admitted? Surely this would be worthy Conſideration.</p>
+               <p>And before you proceed to deal with Perſons for Mar<g ref="char:EOLhyphen"/>riage, examine what Law they have broke; and be ſure you preſume not above what is written. Remember what is ſaid, <hi>Deut.</hi> 4.2. <hi>You ſhall not add unto the word which I have commanded you.</hi> Prov. 30.6. <hi>Add not thou unto his words,</hi> Revel. 22.18. And the Lord give us Underſtanding, and make us conformable to his Will in all things, and unite our Affections, that we may live in Love and Peace, to the Honour of God, the Credit of Religion, and our own Comfort. <hi>Amen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>BUT that nothing may be left undone, that may tend to the ſatisfaction of the moſt <hi>Conſcientious</hi> (or rather more <hi>Scrupulous</hi>) we will (if you pleaſe) conſider the other part of your <hi>Principle:</hi> For tho' this be enough (and more than enough) to them that have not eſpou<g ref="char:EOLhyphen"/>ſed a Princiiple; yet for the ſake of ſome, it may be profitable to ſay ſomething touching the matter of <hi>Deal<g ref="char:EOLhyphen"/>ing</hi> with ſuch as marry out of the Bounds of the <hi>Church,</hi> and take them <hi>Yoke-fellows</hi> with whom they are not a<g ref="char:EOLhyphen"/>greed about the <hi>Inſtitutions</hi> of <hi>Religion.</hi>
+               </p>
+               <p>And that we may come the ſooner at our Deſign, I will grant (for Arguments ſake) <hi>That ſuch Contracts of Marriage as have been before debated, are unlawful.</hi> And yet it remains a queſtion, whether the <hi>Church</hi> hath any Power or Commiſſion, to deal with, or <hi>excommunicate</hi> ſuch as do <hi>ſo marry?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Yes, (without doubt) they have.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>If they have, it muſt be by <hi>Precept</hi> or <hi>Example:</hi> But there is neither Precept nor Example; therefore no <hi>Power</hi> or <hi>Rule</hi> given to the <hi>Church,</hi> to deal with ſuch <hi>Offenders.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Why, you grant the Contract of Marriage to be a
+<pb facs="tcp:38585:24"/>
+                  <hi>Sin,</hi> and then the <hi>Church</hi> is bound to deal with ſuch to purge her ſelf from <hi>Sin, Levit.</hi> 19.17. <hi>Thou ſhalt in any wiſe rebuke thy Neighbour, and not ſuffer ſin upon him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By <hi>Sin</hi> in this place, is meant ſuch juſt Offen<g ref="char:EOLhyphen"/>ces as are committed againſt us by our Brethren, which are indeed Breaches of the <hi>Second Table</hi> in the <hi>Decalogue.</hi> As for Inſtance, if a man do me wrong in my <hi>Name, Perſon</hi> or <hi>Eſtate,</hi> that I ſhould not ſeek for private Revenge, and bear <hi>Malice</hi> to him in my heart, but tell him of his fault, and endeavour that he may be made ſenſible of his fail<g ref="char:EOLhyphen"/>ing in order to a Reconciliation. And like unto this, is that in <hi>Matt.</hi> 18.18. <hi>If thy Brother treſpaſs againſt thee, go and tell him his fault between thee and him alone: if he hear thee, thou haſt gained thy brother.</hi>
+               </p>
+               <p>But this muſt be then in ſuch Caſes as are plain and demonſtrable, and out of diſpute. But this makes no<g ref="char:EOLhyphen"/>thing to this caſe in diſpute; where, if you uſe the grea<g ref="char:EOLhyphen"/>teſt of your Skill, you can no way convince me I have done an Evil.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Muſt the <hi>Church</hi> then bear with <hi>Sin?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>With ſome <hi>Sins</hi> ſhe cannot without deſtroying her own <hi>Conſtitution:</hi> as the Principles upon which ſhe is built may not be diſpenſed withal. But this of Marriage is none of thoſe Principles, and therefore ſhe may bear with it, though it be an Evil: For ſhe muſt bear with many Sins, becauſe there is none of us but offend, <hi>James</hi> 3.2. <hi>In many things we offend all.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>We have the Example of God <hi>dealing</hi> with the <hi>Jews,</hi> for the breach of his Law in this caſe, <hi>Judges</hi> 3.5, 6, 7, 8. <hi>The Lord ſold them into the hand of the King of</hi> Meſopotamia.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But it was not for the ſin of Marriage alone, but for <hi>Idolatry;</hi> for <hi>ſerving their Gods, and ſerving</hi> Balaam <hi>and the Groves, as well as</hi> Marriage.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But the Lord was diſpleaſed with <hi>Solomon</hi> for mar<g ref="char:EOLhyphen"/>rying <hi>Strange Wives,</hi> and rent the Kingdom out of the
+<pb facs="tcp:38585:24"/>Hand of his Son, and gave it to his Servant, 1 <hi>Kings</hi> 11.11.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But this was alſo accompanied with <hi>great Idolatry;</hi> nay, with moſt <hi>notorious Idolatry.</hi> Not only with wor<g ref="char:EOLhyphen"/>ſhipping a <hi>falſe God,</hi> but many falſe Gods: And not only worſhipping falſe Gods, but building high places for them; and that near the place where he had built the <hi>Temple.</hi> And all this was done after God had warn<g ref="char:EOLhyphen"/>ed him to the contrary, 1 <hi>Kings</hi> 11.7, 8, 9, 10, 11.</p>
+               <p>And further mind, that <hi>Solomon married the Daughter of</hi> Pharaoh <hi>when young;</hi> and (it's to be ſuppoſed) ma<g ref="char:EOLhyphen"/>ny more of thoſe Women in his <hi>Middle age:</hi> and yet his Reproof came not till he was old. And therefore, not for thoſe <hi>Marriages,</hi> but for his <hi>Idolatry</hi> which he was brought into by thoſe Women.</p>
+               <p>Beſides, theſe can be no <hi>Preſidents</hi> to you, becauſe God is here <hi>Judge and Executioner</hi> himſelf; whoſe <hi>Ex<g ref="char:EOLhyphen"/>ample</hi> you may not follow without a Precept. <hi>He ſtruck</hi> Uzzah <hi>dead for touching the Ark.</hi> 2 Sam. 6.6, 7. But that is no <hi>Example</hi> to you to <hi>excommunicate</hi> a man that is fearful, leſt the Bread ſhould fall, or the <hi>Wine</hi> be ſpilt at the <hi>Sacrament</hi> of the <hi>Lord's Supper;</hi> and therefore puts forth his hand to ſupport it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But we have an Example in <hi>Ezra</hi> and <hi>Nehemiah, Ezra</hi> 9. and 10. chap. and <hi>Nehem.</hi> 13.5.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Neither of theſe hit the Caſe: For here is the <hi>Wickedneſs</hi> of <hi>Idolatry,</hi> joyned with the <hi>Folly</hi> of their Marriages, <hi>Ezra</hi> 9.1. <hi>Doing according to their Abomina<g ref="char:EOLhyphen"/>tions, even of the</hi> Canaanites, <hi>&amp;c.</hi> The moſt wicked of all.</p>
+               <p>Now if you would be pleaſed to let alone our Bre<g ref="char:EOLhyphen"/>thren and Siſters, till they forſake their <hi>Principles,</hi> and become vain in their Lives: I think none would have cauſe to be offended; but greatly to commend your care and diligence in dealing with <hi>vain</hi> perſons.</p>
+               <p>But further, This is no Preſident, becauſe this was not
+<pb facs="tcp:38585:25"/>a ſeperating the Offenders from the Congregation, but putting away their Wives and Children from them. And how well this agrees with <hi>Excommunication,</hi> I leave to conſideration.</p>
+               <p>And laſtly, It's no Preſident to us, becauſe it was un<g ref="char:EOLhyphen"/>der that Diſpenſation which concerneth not us, nor are we bound by their <hi>Laws,</hi> nor our differences ſo great a<g ref="char:EOLhyphen"/>bout <hi>Religion.</hi>
+               </p>
+               <p>And further, we ought to conſider the <hi>degrees of ſin,</hi> for every <hi>ſin</hi> is not of the ſame <hi>degree;</hi> as may be ſeen in <hi>Levit.</hi> 20.10, 11. you find ſome <hi>ſins</hi> to be puniſhed with <hi>Death.</hi> Thoſe in <hi>verſ.</hi> 17, 18, 19. with <hi>Excommunication.</hi> Thoſe in <hi>verſ.</hi> 20, 21. God reſerved in his own hand. And ſo he hath done that of Marriage, as we ſee all a<g ref="char:EOLhyphen"/>long, he hath puniſhed that offence, at ſuch times, and in ſuch a manner as beſt pleaſed him. Sometimes he hath done it after one manner, and ſometimes after another, but never gave a Rule to the Church, how or when to <hi>deal</hi> with perſons about that matter.</p>
+               <p>And obſerve, you never find God himſelf, nor the people of <hi>Iſrael,</hi> ſo much as once complaining of perſons for thoſe Marriages, until they added the <hi>ſin</hi> of <hi>Idolatry</hi> thereunto. And yet it's incredible to think, that they being a numerous people, and the <hi>Canaanites</hi> dwelling amongſt them in all parts, and amongſt every Tribe, as you may ſee in <hi>Judg.</hi> 3. that they could at any time be without ſome Offenders in this matter.</p>
+               <p>But the ſin of <hi>Idolatry</hi> is often ſpoken of, and God found to puniſh it, when nothing of Marriage is named, 2 <hi>King.</hi> 17.12, 13, 14, 15, 16, 17, 18, 19, 20. 2 <hi>Chron.</hi> 24.18. It would be burdenſome to ſhew the many Preſidents of this kind, of which the Scriptures are ſo full, in the Books of <hi>Judges, Kings, Chronicles,</hi> and the <hi>Prophets.</hi> But I leave this, hoping upon better thoughts you will find you have met with nothing in all this to juſtifie your proceedings, in withdrawing from ſuch as marry out of
+<pb facs="tcp:38585:25"/>the Congregation, unleſs it be accompanied with ſome other aggravation; as all thoſe were which you have brought to juſtifie your, and the Congregations pro<g ref="char:EOLhyphen"/>ceedings.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But we are exhorted, 2 <hi>Theſ.</hi> 3.6. <hi>To withdraw from every Brother that walks diſorderly.</hi> And therefore we have good warrant from hence to withdraw from ſuch as marry out of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>This Text is no general Rule, but is plainly de<g ref="char:EOLhyphen"/>ſigned againſt ſuch who are idle and negligent in their outward Callings, ſcandalous to Religion, and reproach<g ref="char:EOLhyphen"/>ful amongſt men. As you may eaſily ſee if you viw the Chapter; for in <hi>verſ.</hi> 6. he ſaith, <hi>Now we command you, Brethren, in the name of our Lord Jeſus Chriſt, that ye withdraw from every Brother that walks diſorderly, and not after the Traditions which ye received of us. For your ſelves know ye ought to follow us, for we behaved not our ſelves diſorderly amongſt you. Neither did we eat any mans bread for nought, but wraught with labour and travel night and day; that we might not be chargeable to any of you. Not be<g ref="char:EOLhyphen"/>cauſe we had not power, but to make our ſelves an enſample to you to follow us. For even when we were with you, this we commanded you, that if any would not work, neither ſhould he eat.</hi> This is (you ſee) the <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>le.</hi> Now you may ſee the <hi>diſorder</hi> in verſ. 11. <hi>For we hear that there are ſome which walk amongſt you diſorderly, working not at all;</hi> which is a great ſcandal unto Religion.</p>
+               <p>But further, They are <hi>Buſie-bodies,</hi> medling with other perſons, and things that do not concern them. <hi>Now them that are ſuch we command and exhort, that with qui<g ref="char:EOLhyphen"/>etneſs they work and eat their own bread.</hi> For it's unreaſon<g ref="char:EOLhyphen"/>able that ſuch men ſhould live upon the fruits of others labours. It's an evil, yea, a great evil; it makes a man worſe than a Moral Infidel, 1 <hi>Tim.</hi> 5.8. <hi>But if any provide not for his own, and eſpecially for thoſe of his own houſe, he hath denied the Faith, and is worſe than an Infidel. Now if any man obey not our word by this Epiſtle, note that man, and
+<pb facs="tcp:38585:26"/>have no company with him, that he may be aſhamed.</hi> With<g ref="char:EOLhyphen"/>draw from ſuch Scandalous Immoral perſons. And this is the deſign of the Apoſtle in this Text.</p>
+               <p>Now, how much is this to the purpoſe, to encourage you in withdrawing from perſons for Marriage? which is,</p>
+               <p>
+                  <hi>Firſt,</hi> Honourable and commendable in all, Poor and Rich, <hi>Heb.</hi> 13.4.</p>
+               <p>
+                  <hi>Secondly,</hi> Agreeable to Nature, and approved amongſt men. Who ever heard Religion reproached by reaſon of the Marriage of any Man or Woman, that married a ſober perſon, and lived accordingly?</p>
+               <p>
+                  <hi>Thirdly,</hi> you may remember, that God did at all times (upon occaſion) bear with the breach of his poſitive Law, (as I could give inſtances in divers Caſes) when it fell in competition with the Moral Law. As, <hi>Davids eat<g ref="char:EOLhyphen"/>ing of the Shew-bread: And the Diſciples plucking the ears of Corn,</hi> Mat. 12.1. Mark 2.23. Luk. 6.1. But to give you one full inſtance, Take the Caſe of the <hi>Gibioni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es,</hi> Joſ. 9. which were a part of the <hi>Seven Nations</hi> God had com<g ref="char:EOLhyphen"/>manded <hi>Iſrael</hi> to deſtroy: as you may ſee, if you compare <hi>Deut.</hi> 7.1. with <hi>Joſ.</hi> 9.7. 2 <hi>Sam.</hi> 21.2. yet theſe people (by craft) made tearms with <hi>Joſhuah</hi> and the Princes of <hi>Iſrael. Swore</hi> to them in the Name of the <hi>Lord,</hi> Joſ. 9.15. which was a perfect breach of the Command of God: as you may ſee <hi>Exod.</hi> 34.12. compared with <hi>Deut.</hi> 7.1. yet when this Covenant was made, here was no means of Repentance; this Oath muſt be kept, and the <hi>Gibeonites</hi> muſt live, tho' to the <hi>diſcontent</hi> of the People, and <hi>breach</hi> of the Law, <hi>ver.</hi> 18, 19.</p>
+               <p>But further, it's to be obſerved, that this Contract was accompanied with many ſinful <hi>Circumſtances.</hi>
+               </p>
+               <p>
+                  <hi>Firſt,</hi> With Lying and Diſſimulation in the <hi>Gibeo<g ref="char:EOLhyphen"/>nites,</hi> pretending that they were of a <hi>far Countrey,</hi> that they had travelled till their Shoes were worn out, their <hi>Bread</hi> mouldy, and their <hi>Bottles</hi> rent; and yet none of theſe were otherwiſe than when they came from their own homes, <hi>v.</hi> 4, 5.</p>
+               <pb facs="tcp:38585:26"/>
+               <p>
+                  <hi>Secondly,</hi> That the <hi>Fame only,</hi> which they heard of the wondrous works of the God of <hi>Iſrael,</hi> moved upon their people to ſend early to get acquaintance with this peo<g ref="char:EOLhyphen"/>ple, <hi>v.</hi> 9. when indeed it was only the fear that was upon them, that they ſhould have been deſtroyed in a few days; <hi>Iſrael</hi> being entring upon their Borders.</p>
+               <p>
+                  <hi>Thirdly,</hi> When it was put to them, whether they were not their Neighbours? They <hi>confidently affirm</hi> themſelves to be of a very <hi>far Countrey;</hi> and that the Fame they had heard of the God of <hi>Iſrael,</hi> had moved them to this Jour<g ref="char:EOLhyphen"/>ney, and to make ſuit for acquaintance and peace with this People, <hi>v.</hi> 7, 8, 9, 10, 11, 12, 13, 14.</p>
+               <p>
+                  <hi>Fourthly,</hi> There was <hi>too great Credulity</hi> in <hi>Joſhua</hi> and the Princes: For if they had made but a <hi>ſmall doubt</hi> of their pretences, and waited a little time, they had been better informed, <hi>v.</hi> 16. For after three days, they heard they were of their Neighbours, and that they dwelt amongſt them.</p>
+               <p>
+                  <hi>Fifthly,</hi> There was a <hi>great neglect</hi> in <hi>Joſhua</hi> and the <hi>Prin<g ref="char:EOLhyphen"/>ces</hi> of <hi>Iſrael,</hi> in not asking <hi>Councel</hi> of God, <hi>ver.</hi> 14.</p>
+               <p>
+                  <hi>Sixthly,</hi> An <hi>Offence given to the People</hi> or Congregation of <hi>Iſrael, verſ.</hi> 18.</p>
+               <p>So that (one would think) here was room enough from theſe Objections, for <hi>Eleazer</hi> and the <hi>Congregation</hi> to have dealt with <hi>Joſhua</hi> and the <hi>Princes,</hi> and to have re<g ref="char:EOLhyphen"/>nounced the <hi>Oath,</hi> and broke the <hi>Covenant</hi> that was made with the <hi>Hivites.</hi> But ſo far were they from this, that when the people murmured againſt the Princes, they tell them there was <hi>no remedy:</hi> For <hi>they had ſworn to them in the name of the Lord, and therefore they might not tonch them,</hi> v. 19, 20. <hi>leſt wrath ſhould be upon them.</hi>
+               </p>
+               <p>And further, it's very obſervable, that <hi>Saul</hi> being more zealous of the <hi>poſitive,</hi> than of the <hi>moral Law,</hi> went about to <hi>deſtroy</hi> this People; &amp; the Lord was <hi>diſpleaſed</hi> at it, and puniſhed it (in the days of <hi>David</hi>) with three years Fa<g ref="char:EOLhyphen"/>mine; which Plague was not removed, <hi>till ſeven of the Sons of</hi> Saul <hi>were delivered to the</hi> Gibeonites, <hi>and they hang<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:38585:27"/>them up in the Hill before the Lord, and after that, God was intreated for the Land,</hi> 2 Sam. 21.1, 2, 3, 4, 5, 6, 7, 8, 9, 14.</p>
+               <p>So that here you ſee, a <hi>Church</hi> is ſometimes bound to bear with the <hi>breakers</hi> of a <hi>poſitive Law;</hi> Tho' I would not have this ſtrained to countenance any neglect of du<g ref="char:EOLhyphen"/>ty in any man, much leſs any preſumptuous ſin: From which the Lord preſerve us.</p>
+               <p>
+                  <hi>Fourthly,</hi> You need not make it ſtrange, that men ſhould live in the breach of ſome Laws, and yet never <hi>dealt</hi> with<g ref="char:EOLhyphen"/>all by, the <hi>Church:</hi> For you your ſelves have perſons a<g ref="char:EOLhyphen"/>mongſt you, which live in the neglect of ſome <hi>expreſs du<g ref="char:EOLhyphen"/>ties,</hi> and yet you deal not with them. For inſtance,</p>
+               <p>
+                  <hi>Firſt,</hi> When did you <hi>deal</hi> with a man that <hi>neglected to pray for his Superiours?</hi> And yet it's a duty plainly en<g ref="char:EOLhyphen"/>joyned in the Goſpel, 1 <hi>Tim.</hi> 2.1, 2, 3.</p>
+               <p>
+                  <hi>Secondly,</hi> There is no duty more plainly expreſſed in the Goſpel, than <hi>Contribution to the Miniſtry;</hi> (no not <hi>Bap<g ref="char:EOLhyphen"/>tiſm</hi> it ſelf,) and yet, who did you ever deal withal for that neglect? Notwithſtanding it be ſo plainly expreſ<g ref="char:EOLhyphen"/>ſed in the Goſpel to be the <hi>Ordinance of God,</hi> as the A<g ref="char:EOLhyphen"/>poſtle ſheweth, 1 <hi>Cor.</hi> 9. <hi>v.</hi> 1. and ſo on; and <hi>v.</hi> 14. <hi>Even ſo hath God ordained, that they which preach the Goſpel ſhould live of the Goſpel.</hi> Even ſo hath God ordained, even as ſure as men go not a <hi>Warfare</hi> at their own charge; but at the charge of the Country whom they ſerve: Nor men <hi>plant</hi> not a Vineyard, and <hi>eat</hi> not of the fruit thereof. The <hi>Ox</hi> that treadeth out the Corn was not to be muzzled, <hi>Deut</hi> 25.4. but might eat of the fruit of his labour; and the <hi>Prieſts</hi> that miniſter at the <hi>Altar,</hi> might eat of the <hi>ho<g ref="char:EOLhyphen"/>ly things</hi> belonging to the <hi>Altar.</hi> And if this be true, even ſo true it is, <hi>That we</hi> the Miniſters that preach the Goſpel, <hi>ſhould live of the Goſpel;</hi> which is alſo further enjoyned, <hi>Gall.</hi> 6.6. <hi>Let him that is taught in the word, communicate to him that teacheth in all good things.</hi> What duty more plain in the Scriptures? What more agreable to the <hi>Com<g ref="char:EOLhyphen"/>mon Sentiments of mankind,</hi> and to <hi>reaſon</hi> and <hi>Juſtice?</hi> A
+<pb facs="tcp:38585:27"/>Duty much neglected. Nay, ſome have declared them<g ref="char:EOLhyphen"/>ſelves againſt it in their Principles: And yet, who is it calls perſons to an account for this neglect? Tho' by this means the <hi>Church</hi> is made <hi>weak,</hi> God <hi>diſhonoured,</hi> and the Goſpel <hi>reproached,</hi> and many <hi>faithful</hi> Labourers driven to <hi>want and great neceſſity;</hi> and others <hi>diſcouraged</hi> from con<g ref="char:EOLhyphen"/>cerning themſelves with that <hi>dangerous</hi> tho' <hi>glorious</hi> work.</p>
+               <p>And now Brother, let me (in the fear of the Lord) intreat you to conſider theſe few things.</p>
+               <p>
+                  <hi>Firſt,</hi> What a <hi>Yoke</hi> do you put upon the <hi>Necks of the Diſciples,</hi> and more eſpecially on the <hi>poor Women?</hi> The <hi>modeſty</hi> of whoſe Sex, and cuſtom of their Country will not admit them to ſeek Mates for themſelves: And <hi>none</hi> in the <hi>Church</hi> perhaps take notice of many of them; and in the world they muſt not marry, tho' their Advantage be never ſo promiſing, and the proſpect of their fnture happi<g ref="char:EOLhyphen"/>neſs never ſo perſpicuous; yet they are bound by this Law, to ſlight all opportunities and offers of this kind, and to deny themſelves of thoſe happy enjoyments which God hath provided, and nature inclines them to, and which (next to Food and Rayment) is moſt deſirable of all out<g ref="char:EOLhyphen"/>ward Bleſſings.</p>
+               <p>How many have I known who have been kept in Bon<g ref="char:EOLhyphen"/>dage till the <hi>Flower of their Age</hi> was paſt, and at length have been forced to make a breach upon your <hi>Principle,</hi> and bear your Frowns how ſevere ſoever?</p>
+               <p>
+                  <hi>Secondly,</hi> Conſider how ridiculous this dealing is in the eſteem of others, not only amongſt the <hi>rude</hi> and <hi>profane,</hi> but amongſt the <hi>ſober</hi> minded. What doth the <hi>Presbyter</hi> or <hi>Independant</hi> ſay to this? Do they think it good deal<g ref="char:EOLhyphen"/>ing? And do they look upon you as <hi>wiſe Men,</hi> to deal thus with perſons for marrying with them, and with ſuch as they eſteem <hi>faithful</hi> and upright? And yet you ſhall ac<g ref="char:EOLhyphen"/>count ſuch Marriages <hi>Fornication?</hi> Do they not think you are not only beſides the Truth, but your Wits alſo?</p>
+               <p>It's not ſufficient to tell them you have a <hi>Preſident</hi> in <hi>Ez<g ref="char:EOLhyphen"/>ra:</hi> for they may tell you, that if the men of <hi>Iſrael</hi> had ne<g ref="char:EOLhyphen"/>ver
+<pb facs="tcp:38585:28"/>married with a <hi>Canaanitiſh Woman,</hi> but made (in<g ref="char:EOLhyphen"/>ſtead thereof) a <hi>Covenant</hi> for ſo many <hi>Acres of Land,</hi> and one of the Conditions had been to have worſhipped <hi>Baal<g ref="char:EOLhyphen"/>peor,</hi> or <hi>Balaam,</hi> it had been altogether as <hi>ſinful,</hi> Exod. 34.12, 12, 14, 15, 16. <hi>Deut.</hi> 7.23. <hi>chap.</hi> 20, <hi>v.</hi> 16, 17, 18.</p>
+               <p>
+                  <hi>Thirdly,</hi> Conſider what a <hi>ſtumbling block</hi> you lay before the youger ſort, both Men and Women; and think what a <hi>Lion</hi> it is in their way: When, tho' they like the people well, are convinced of the truth of the Goſpel; yet, if they underſtand this Yoke, they will be twice adviſed, before they cloſe with ſuch a people; eſpecially thoſe whoſe Fortunes are like to be advanced in the world. And thus, you do not only deprive your ſelves of a Brother or a Siſter, but the Poor of a perſon capable to yeild them re<g ref="char:EOLhyphen"/>lief.</p>
+               <p>
+                  <hi>Fourthly,</hi> Conſider what a ſad account you will be able to give in the day of the Lord, if all theſe your pro<g ref="char:EOLhyphen"/>ceedings be grounded upon a miſtake: And that you have pretended Gods warrant, when he never granted any ſuch, nor appointed any under him to concern themſelves in that matter, but kept it to himſelf. And yet you have u<g ref="char:EOLhyphen"/>ſed his Name and Authority, without his Commiſſion. What will you ſay, if you be called to an account, for <hi>grie<g ref="char:EOLhyphen"/>ving</hi> ſome, and cauſing others to <hi>turn aſide?</hi>
+               </p>
+               <p>And laſtly, That you have in the Name of God, ſhut both Men and Women out of the Church, and (as much as in you lay) out of Heaven it ſelf: And all this upon a a <hi>preſumptuous Zeal</hi> that God is honoured thereby, tho' you can give neither <hi>Precept</hi> nor <hi>Example</hi> to warrant your proceedings.</p>
+               <p>Surely Brother, It will become you, and the reſt of our Brethren, to conſider well of theſe things. And let not a <hi>paſ<g ref="char:EOLhyphen"/>ſionate Zeal</hi> tranſport, nor a <hi>prepoſſeſſed Judgment</hi> prevent you from <hi>detracting</hi> any thing that may appear to be to the <hi>prejudice</hi> of the <hi>Truth,</hi> and the <hi>Peace</hi> of the <hi>Church:</hi> which I pray God may dayly increaſe, to the honour of his Great and Glorious Name. <hi>Amen.</hi>
+               </p>
+            </sp>
+         </div>
+         <div type="appendix">
+            <pb n="47" facs="tcp:38585:28"/>
+            <head>AN Appendix, By way of Caution; or, a Word of <hi>Ad<g ref="char:EOLhyphen"/>vice</hi> to the <hi>
+                  <g ref="char:V">Ʋ</g>nmarried.</hi>
+            </head>
+            <p>MY dear Brethren and Siſters, let not any thing in theſe Papers give you any occoſion or in<g ref="char:EOLhyphen"/>couragement to marry with ſuch perſons whom you have cauſe to fear are Careleſs and remiſs in the matters of <hi>Religion,</hi> for <hi>Vertue</hi> is <hi>Vertue</hi> ſtill, and <hi>Piety</hi> and <hi>Religion</hi> are to be embraced. And as God hath made you rational Creatures, he expects you ſhould ſhew yur ſelves ſuch in the management of your affairs; and more eſpecially in thoſe great affairs of <hi>Re<g ref="char:EOLhyphen"/>ligion.</hi> And if you are ſuch as mind the concern of Re<g ref="char:EOLhyphen"/>ligion, you will endeavour to ſort your ſelves with ſuch Company as will promote it: at leaſt with ſuch as may not hinder you in the performance of your Duty therein.</p>
+            <p>And I pray conſider, if you have any matter of <hi>Imploy</hi> but for one Year, would you be willing to unite your ſelf with, or to ſuch an one as ſhould at all times be your hindrance, and be putting you upon diſcouragements? And if you would not entertain ſuch a Companion which you could change in one year, becauſe they were an hin<g ref="char:EOLhyphen"/>derance to you in a ſmall concern, why ſhould you not be much more careful in the choice of a <hi>Yoke-fellow?</hi> with whom you muſt remain for the tearm of one of your Lives, and who will certainly be an hinderance to you in your Soul-concerns, if they be perſons of evil Lives and corrupt Manners.</p>
+            <p>My Friends, Tho' I have endeavoured to make it ap<g ref="char:EOLhyphen"/>pear,
+<pb n="48" facs="tcp:38585:29"/>that to marry a perſon with whom you differ about matters of inſtituted Religion, is not <hi>ſinful</hi> without other circumſtances attending it. Nor is it a matter the Church hath power to <hi>deal</hi> with you for: yet Gods Eye is upon you, and he ſeeth your Actions, and knoweth your thoughts, and what regard you had to Religion, when you made your Choice of a Yoke-fellow. And be ſure God will viſit you according to your deſert, in one kind or another, and at ſuch times as pleaſeth him.</p>
+            <p>And further conſider, it was not for nothing that God warned <hi>Iſrael</hi> in that Caſe, and foretold them the dan<g ref="char:EOLhyphen"/>ger of marrying with perſons inclined to evil Courſes. Man's heart is prone to evil, and therefore he had need to take heed he be not enſnared by his own actions, and that he <hi>condemn not himſelf in thoſe things which he alloweth.</hi>
+            </p>
+            <p>Let me therefore adviſe you to beware of ſuch as theſe, and come not nigh the door of their houſes, <hi>Prov.</hi> 5. <hi>verſ.</hi> 8.</p>
+            <p>
+               <hi>Firſt,</hi> Be ſure to avoid the <hi>lewd</hi> and <hi>prophane:</hi> marry not with ſuch: It cannot be done without <hi>violence</hi> to your own Reaſon, great <hi>offence</hi> to your Brethren, and <hi>ſcandal</hi> to Religion. And if ſo, then great <hi>diſhonour</hi> to God alſo. For ſuch will be the effects of your Marriage, that you can neither live with comfort nor credit. Com<g ref="char:EOLhyphen"/>fort you can have none, becauſe God is diſhonoured every day in your Family, and you cannot avoid it: but the more you endeavour a Reformation, the more ſin is committed, and the name of God blaſphemed. And as to your credit and reputation, it's much impared by be<g ref="char:EOLhyphen"/>ing yoked with ſuch a diſhonourable perſon, and more eſpecially is a man diſhonoured by a vain and lewd Wife.</p>
+            <p>And although it be the concern of a Woman to be careful, and beware of this evil, yet it's more the con<g ref="char:EOLhyphen"/>cern of men to avoid this evil. For a man is much more diſſhonoured when he hath a wicked Wife, than a Wo<g ref="char:EOLhyphen"/>man
+<pb facs="tcp:38585:29"/>by a wicked Husband; though both more than I am able to expreſs: and Gods name diſhonoured far be<g ref="char:EOLhyphen"/>yond all expreſſion. Take heed therefore of the <hi>Lewd</hi> and <hi>Prophane.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Beware of the <hi>Contentious</hi> and <hi>Froward,</hi> as being very unfit for Society; and more eſpecially ſo near an Alliance as is between a man and his wiſe: <hi>Prov.</hi> 9.13. <hi>A fooliſh Woman is clamorous, ſhe is ſimple and knoweth nothing.</hi> Chap. 21.9. <hi>It is better to dwell in a corner of the houſe to, than with a brawling Woman in a wide houſe,</hi> Chap. 25.24. Chap. 27.15, 16. Chap. 3.32. <hi>The froward is an abomination to the Lord. The froward mouth is hated of the Lord,</hi> Chap. 8.13. And for a further demonſtrati<g ref="char:EOLhyphen"/>on of this evil Society, ſee <hi>Ecclus</hi> 25.13.</p>
+            <p>
+               <hi>Thirdly,</hi> Beware of the <hi>Proud</hi> and <hi>Ambitious.</hi> Many are the evils which attend thoſe that are ſo yoked, and they may well fear a Curſe to attend upon it, <hi>Prov.</hi> 13.10. Therefore beware, more eſpecially you my Brethren, who have the liberty of Choice, and may with care and diligence eſcape theſe ſnares. Take heed of <hi>proud</hi> and <hi>ambitious</hi> Women, it will be no ſmall grief to meet with ſuch an one, who ſhall diſdain your <hi>Birth, Parentage,</hi> and <hi>Relations;</hi> your <hi>Education, Trade,</hi> and <hi>Imployment;</hi> the <hi>proviſion</hi> you make for her, and <hi>maintenance</hi> you allow her. When ſhe ſhall always be ſtriving to <hi>live high,</hi> in <hi>pomp</hi> and <hi>vain glory;</hi> ſtriving to excel her Neighbours and Acquaintance in her <hi>way of Living,</hi> and in her <hi>Garb;</hi> but never in <hi>Vertue</hi> and <hi>Humility.</hi> This (I ſay) will be your grief and unſpeakable trouble, if you fear the Lord. Labour therefore to avoid ſuch.</p>
+            <p>
+               <hi>Fourthly,</hi> Beware of the <hi>Extravagant</hi> and <hi>Waſteful.</hi> For this is an evil will prove a great <hi>Snare</hi> unto you, and breach of your <hi>Peace,</hi> and is attended with <hi>Want. He that loveth pleaſure ſhall be a poor man, and he that loveth wine and oyl ſhall not be rich,</hi> Prov. 21.17. And (you Brethren) conſider, if you meet with ſuch Wives as ſhall
+<pb facs="tcp:38585:30"/>
+               <hi>waſte</hi> and <hi>conſume</hi> the Fruits of your <hi>careful Labours,</hi> it it will be no ſmall grief to your Spirits; and the greater, becauſe you know not how to reform it in a Wife. A Servant you may correct, or put away; but with a Wife you muſt bear. Therefore take heed of ſuch, and avoid them.</p>
+            <p>
+               <hi>Fifthly,</hi> Beware of the <hi>Careleſs</hi> and <hi>Sloathful.</hi> This is alſo a great evil, and will break your <hi>Peace,</hi> and create ſtrife and contention, a thing a man cannot bear in a Wife, whom he expects ſhould improve her part in a diligent improving her ſelf in her place, for the good of her Husband and Family: and if ſhe be careleſs of her Duty herein, how will he be able to bear it in her?</p>
+            <p>And likewiſe the Wife that hath an idle careleſs Huſ<g ref="char:EOLhyphen"/>band, What is her grief? How many her cares? And what diſcontent will ariſe from this, is not eaſily told, and more uneaſie to be born. <hi>He becometh poor that deal<g ref="char:EOLhyphen"/>eth with a ſlack hand,</hi> Prov. 10.4. <hi>Drowſineſs will cloath a man with Raggs,</hi> Prov. 23.1. <hi>An idle Soul ſhall ſuffer hunger,</hi> Prov. 19.25. Beware therefore of ſuch, and a<g ref="char:EOLhyphen"/>void them.</p>
+            <p>And now my Friends, you that have your Choice to make, make it your buſineſs to yoke your ſelves with ſuch as are <hi>ſober</hi> and <hi>pious, quiet</hi> and <hi>peaceable, humble</hi> and <hi>lowly minded, frugal, careful,</hi> and <hi>induſtrious:</hi> for all theſe good qualifications are needful in one with whom you joyn in ſo cloſe a Relation; &amp; in the want of any of theſe, you will want ſo much of your Comfort. But above all, mind <hi>Meekneſs</hi> and <hi>Humility.</hi> Thoſe are Graces will great<g ref="char:EOLhyphen"/>ly tend to your Comfort, and if you proſper in the world, will teach you ſo to improve your ſelf and your enjoyments, as will make them truly comfortable to you. And if Poverty be your portion, yet will theſe Graces greatly enable you to bear your wants and affli<g ref="char:EOLhyphen"/>ctions. It will be joy to your hearts, when you can with joynt conſent go to the Throne of Grace, and return
+<pb facs="tcp:38585:30"/>thanks to God for mercies received, or to beg of God Bleſſings that are wanting.</p>
+            <p>And this may be done, where there is <hi>difference in Opi<g ref="char:EOLhyphen"/>nion about Inſtituted Religion,</hi> you all believing there is <hi>One God,</hi> who is the <hi>Fountain</hi> of all our <hi>Mercies,</hi> and hath <hi>Rewards</hi> and <hi>Puniſhments</hi> at his diſpoſing: And un<g ref="char:EOLhyphen"/>to him it is you direct your Prayers. And being agreed about this Holy Duty, you may with <hi>Zeal</hi> perform it, and in <hi>Faith</hi> wait for a Bleſſing.</p>
+            <p>But yet (in the cloſe of my Advie) if thou, findeſt a perſon in the Church <hi>holy</hi> and <hi>humble,</hi> prefer ſuch an one before <hi>Riches</hi> and <hi>Beauty;</hi> for both theſe are vain and periſhing: but <hi>Vertue</hi> will abide, and be both a Comfort and an Ornament. <hi>Whoſo findeth a Wife, findeth a good Thing, and hath obtained favour of the Lord,</hi> Prov. 18.22. which is to be underſtood of a <hi>Good Wife,</hi> which other<g ref="char:EOLhyphen"/>wiſe can be no Bleſſing; as hath been ſhewed in the ſe<g ref="char:EOLhyphen"/>cond particular way of Advice. And further, <hi>Solomon</hi> hath it, <hi>Prov.</hi> 19.14. <hi>Houſes and Riches are the Inhe<g ref="char:EOLhyphen"/>ritance of Fathers, but a prudent Wife is from the Lord.</hi> Now where <hi>Piety</hi> and <hi>Prudence</hi> are in a Man or Wo<g ref="char:EOLhyphen"/>man, it is a great Bleſſiing to their Yoke-fellows; but much the greater when they agree in the <hi>Principles of Religion,</hi> even about <hi>Inſtitutions.</hi> For where the Man and Wife differ about <hi>Baptiſm</hi> and the <hi>Lord's Supper,</hi> there will many times ariſe unpleaſant Diſcourſe, and it may be let in <hi>Contention</hi> and <hi>Strife,</hi> if not prevented by much watchfulneſs on both ſides. And tho' Wiſdom may ſo govern, that the Goſpel may not be reproached by it, nor the Church offended at it; yet you may want of your own Comforts by means thereof. And you do (without all doubt) lay your ſelves the more open to <hi>Temptation,</hi> and may the ſooner be led into a Snare. See <hi>Exod.</hi> 4.25, 26.</p>
+            <p>I therefore beſeech you, have a care in your Choice,
+<pb facs="tcp:38585:31"/>and marry (if you can) with <hi>Baptized Perſons,</hi> and ſuch as are prudently <hi>zealous</hi> for their Profeſſion.</p>
+            <p>And let me tell you, it will be a great Comfort to you, when you can go together to hear the Word, and to partake of the <hi>Ordinances of God</hi> in his Church. How may you diſcourſe of what you have heard from the <hi>Preacher?</hi> And what ſweet <hi>Communion</hi> you had at the <hi>Lord's Table?</hi> And with what Comfort and <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> may you go to the <hi>Throne of Grace,</hi> and return thanks to God for that days Mercy? Which Comfort will be all loſt (or much hindred) where the Man and Wife differ about <hi>In<g ref="char:EOLhyphen"/>ſtitutions,</hi> and more eſpecially about <hi>Baptiſm</hi> and the <hi>Lord's Supper.</hi>
+            </p>
+            <p>And again, you cannot ſo well inſtruct your <hi>Servants,</hi> nor tutor your <hi>Children</hi> where you have this difference: which you may (to your grief) ſind unpleaſant to you when it is too late.</p>
+            <p>And again, For a <hi>Baptiſt</hi> to marry with one of ano<g ref="char:EOLhyphen"/>ther <hi>Perſwaſion,</hi> is not ſo honourable in the eſteem of Brethren; nor doth it declare ſo high an eſteem of your Profeſſion as you ought to have, and more eſpecially in a Man who hath the liberty of his own Choice.</p>
+            <p>My Advice therefore is, as you tender your own <hi>Peace,</hi> your <hi>Reputation,</hi> the <hi>Honour</hi> of God and <hi>Religi<g ref="char:EOLhyphen"/>on,</hi> make your Choice in the <hi>Church:</hi> For tho' (I ſay that if you do not) the Church ought not to <hi>deal</hi> with you; yet God Almighty may, and certainly will, at ſome time or other, and in ſome kind or other, if his Name be diſhonoured thereby.</p>
+            <p>And further, let me tell thee, that if thou ſhouldeſt (in the Church) be decived, yet thou wilt find a great ſup<g ref="char:EOLhyphen"/>port to help thee under thy Burthen, when thou canſt truly ſay, thou madeſt this <hi>Choice</hi> upon the account of <hi>Religion,</hi> and not for <hi>Worldly Advantage.</hi>
+            </p>
+            <p>But perhaps ſome will Quaery why this <hi>Author</hi> follow<g ref="char:EOLhyphen"/>ed not this Advice himſelf, when it was his own Caſe?</p>
+            <pb facs="tcp:38585:31"/>
+            <p>To which I freely Anſwer, it was my Folly, and that which I commend not in my ſelf, and ſeeing the incon<g ref="char:EOLhyphen"/>veniencies, am the better able to give Advice to others, that they grieve not their Brethren, as I have done, nor make themſelves work for Repentance, tho by this I would not be thought to reflect upon her that never was an oppoſite to me in Religion, but a help; and through Gods Grace her ſelf ſoon embraced the <hi>Truth,</hi> praiſed be his Name.</p>
+            <p>Now be ſure that you mind to chuſe the <hi>Vertuous,</hi> that you be not prevented of your Comforts. And the good Lord direct your hearts, that (in this great Work) you may do nothing to your own grief, and Gods diſhonour; but on the contrary, all may be done,</p>
+            <p>
+               <hi>Firſt,</hi> To Gods <hi>Honour.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Your own <hi>Comfort,</hi> the comfort of your <hi>Friends,</hi> and the credit of <hi>Religion:</hi> Which is the hearty Prayer of,</p>
+            <closer>
+               <signed>
+                  <hi>Your Friend and Brother,</hi> Stephen Tory.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>AND now, my Dear Brethren and Siſters, bear with me a few words, in which I make bold to direct you how to Marry, as well as who to Marry.</p>
+            <p>And firſt, To you my Brethren, I pray you be advi<g ref="char:EOLhyphen"/>ſed in a few things.</p>
+            <p>
+               <hi>Firſt,</hi> When you think to change your Condition, conſider whether you be fit ſo to do. Think how you can maintain a Wife. For, if thou canſt not maintain thy Self, thou doeſt but abuſe that Woman whom thou marryeſt, unleſs ſhe can maintain thee, and hath not an
+<pb facs="tcp:38585:32"/>expectation from thee, which is ſeldom known. And let me tell thee, the want of this Conſideration, hath been a grief to many when it hath been too late. But I ſel<g ref="char:EOLhyphen"/>dom knew any that had cauſe to repent their careful proceeding in this matter. Nor ſpeak I this to cauſe diſ<g ref="char:EOLhyphen"/>pondency in any honeſt ſincere hearts, who in a low con<g ref="char:EOLhyphen"/>dition uſe their endeavour, and truſt in Gods providence; but I ſpeak this to warn the <hi>unwary,</hi> and to curb the <hi>preſumptuous.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Conſider how thou canſt govern a Family; How thou canſt govern Servants, and Tutor Children, and behave thy ſelf to a Wife. That as the State of Mar<g ref="char:EOLhyphen"/>riage is an Honourable State, ſo take heed it be not diſ<g ref="char:EOLhyphen"/>honoured by thy inadvertency.</p>
+            <p>
+               <hi>Thirdly,</hi> Take heed that you make no promiſes of Marri<g ref="char:EOLhyphen"/>age, and when you have done draw back, and <hi>break your Vows</hi> made in ſecret. For know, that Vows and Contracts made in ſecret are known to God, who will not fail to do right, and therefore take heed of breaking your Vows. Nay, my Advice is to all men, to take heed of making ſhew of Love to any perſon, whom they do not really intend to marry; there is many times great grief comes by this means, and therefore be adviſed.</p>
+            <p>
+               <hi>Fourthly,</hi> You my Siſters be <hi>Wiſe,</hi> conſider whether you be able to perform your Duties in your places; and alſo take heed of fooliſh Fondneſs. Think not that every man that ſpeaks friendly to you, or looks pleaſantly up<g ref="char:EOLhyphen"/>on you, is in <hi>Love</hi> with you, and hath a mind to live and die with you. Neither be proud and diſdainful, nor un<g ref="char:EOLhyphen"/>faithful; but conſider, you are about a <hi>great Work or<g ref="char:EOLhyphen"/>dained of God for you to do,</hi> and therefore do it in his fear, and by his advice. Take advice of your Friends, and the wiſeſt of your Acquaintance, and alſo make your Prayer to God for his Aſſiſtance, and wait on him for Counſel, and this is the way to prevent miſcarrying.</p>
+            <p>
+               <hi>Fifthly</hi> and laſtly, I adviſe you both Brethren and
+<pb facs="tcp:38585:32"/>Siſters, let the outward Ceremony be performed accor<g ref="char:EOLhyphen"/>ding to the Law of this Land (or other Country where you dwell.) And ſeeing the outward part is appointed by the Law, to be performed by the <hi>Clergy,</hi> make uſe of their Authority. Without which, tho I will admit you may be honeſtly brought together without ſin, yet not ſafely, nor with that Reputation as you may be otherwiſe.</p>
+            <p>Theſe few things I thought good to ſpread before you, leaving the Anſwer to all Objections about this part of <hi>Advice,</hi> till I ſee ſome made againſt it. <hi>Farewell.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <head>
+               <hi>A Second</hi> POSTSCRIPT <hi>by way of Advice, to all thoſe that either have, or hereafter ſhall marry with ſuch as are of contrary Minds in the Matters of In<g ref="char:EOLhyphen"/>ſtituted Religion.</hi>
+            </head>
+            <p>MY Friends, let me adviſe you, that you take heed you forſake not the Truth, to which you have attained; be not drawn away by your <hi>Yoke-fellows</hi> that are contrary minded, but know it was that very thing of which God forewarned <hi>Iſrael, Exod.</hi> 34.16. <hi>Deut.</hi> 7.4. and not only told them the danger of being drawn away, but the puniſhment that would follow thereup<g ref="char:EOLhyphen"/>on, <hi>Joſ.</hi> 23.16.</p>
+            <p>
+               <hi>Secondly,</hi> Let me adviſe that you ſo be have your ſelves with ſuch Chriſtian Reſpects, <hi>Meekneſs</hi> and <hi>Sobriety,</hi> as may prevail upon your <hi>Yoke-fellows</hi> to embrace the Truth, or at leaſt to prevent them from thinking evil of the way you profeſs, becauſe of your uneven walking.</p>
+            <p>
+               <hi>Thirdly,</hi> My Advice is, that you forſake not the Aſ<g ref="char:EOLhyphen"/>ſemblies of your Brethren, nor the hearing of the Word preached; neglect not any good Duty, be not careleſs in your Devotion, nor remiſs in any good Work; let not your Zeal cool, nor your Love decay, but let it be ſeen you have yet the ſame Aſſections towards God,
+<pb facs="tcp:38585:33"/>his ways and people that ever you had; and that you do not profer your ſenſual Pleaſures and carnal Delights at that rate, to put you out of love with the ways of God; and let not the Frowns and Diſcontents of ſome of your weak Brethren put you out of the way, and cauſe you to neglect thoſe things which your own Conſciences incline you to: And all you that have left your <hi>Congregations,</hi> and neglected your Duties, I adviſe you to return and redeem the time you have loſt, and make peace with God, and (as much as in you lieth) with your Brethren.</p>
+            <p>
+               <hi>Fourthly,</hi> I adviſe you that you forſake not the Lord's Table voluntarily, and when you are forbid to partake of that Sacred Ordinance by any of your Brethren, bear it with patience, and make your humble Addreſſes to the Church for a Reconciliation, and wait a while with patience, and let your Brethren ſee your love to them, and your deſire to enjoy your former Priviledges; and when you have waited from time to time and cannot prevail, then you that live where you may find other Society, (as all thoſe in <hi>London</hi> may) I adviſe that you apply your ſelves to ſome other <hi>Congregation</hi> of your own Profeſſion, where you may be entertained; that you may thereby be preſerved from thoſe Decays which you will be apt to fall into, if you uſe not the greater diligence: Which that you may do, the Lord bleſs what hath been ſaid, that you may be kept from falling, and may be preſerved to his Heavenly Kingdom, which is the hearty Prayer of your Friend and Bro<g ref="char:EOLhyphen"/>ther,</p>
+            <closer>
+               <signed>S. Tory.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38585:33"/>
+         </div>
+      </body>
+   </text>
+</TEI>
